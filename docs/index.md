@@ -1,0 +1,14 @@
+# 信源日报
+
+每日 8 公众号聚合分析 + 宏观共振 + 海外映射
+
+---
+
+## 日报列表
+
+<!-- REPORTS_LIST -->
+- [2026-06-24 信源日报](2026-06-24.md)
+---
+
+> 数据来源：微信公众号 | 宏观数据 | US ETF 势能 | 基本面因子
+> 生成工具：gen_source_summary.py + gen_daily_brief.py + Claude Code AI 验证
