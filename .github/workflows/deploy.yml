@@ -4,15 +4,6 @@ on:
   push:
     branches: [main]
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -22,12 +13,4 @@ jobs:
         with:
           python-version: "3.x"
       - run: pip install -r requirements.txt
-      - run: mkdocs build --strict
-      - uses: actions/configure-pages@v4
-        with:
-          static_site_generator: mkdocs
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-      - id: deploy
-        uses: actions/deploy-pages@v4
+      - run: mkdocs gh-deploy --force
