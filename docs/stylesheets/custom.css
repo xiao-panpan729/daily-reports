@@ -1,6 +1,36 @@
 /* ===== 信源日报 — 内容排版增强 ===== */
 /* 兼容 Material theme (slate/light 双主题) */
 
+/* 0. 布局修正：主内容区左移 + 加宽 */
+.md-grid {
+    max-width: 80rem;  /* 默认 61rem，加宽让内容不挤 */
+}
+.md-sidebar--secondary {
+    width: 14rem;      /* 右栏稍窄，给主内容更多空间 */
+}
+.md-content {
+    margin-right: 0;   /* 取消右侧多余边距 */
+}
+/* 表格容器水平滚动防止截断 */
+.md-typeset .md-content__inner {
+    overflow-x: visible;
+}
+.md-typeset table {
+    display: table;
+    width: 100%;
+    table-layout: auto;
+    font-size: 0.85em;  /* 稍小字号让表格更紧凑 */
+    white-space: normal;
+    word-break: break-word;
+}
+/* 话题表格特别处理：保证内容完整显示 */
+.md-typeset table td,
+.md-typeset table th {
+    white-space: normal;
+    word-break: break-word;
+    min-width: 0;
+}
+
 /* 1. 话题标题（### 🔴/🟡 开头）：红色加粗大字号 */
 .md-typeset h3 {
     color: #ef5350;
