@@ -1,0 +1,60 @@
+/* ===== 信源日报 — 内容排版增强 ===== */
+/* 兼容 Material theme (slate/light 双主题) */
+
+/* 1. 话题标题（### 🔴/🟡 开头）：红色加粗大字号 */
+.md-typeset h3 {
+    color: #ef5350;
+    font-weight: 700;
+    font-size: 1.15em;
+    margin-top: 1.8em;
+    border-bottom: 1px solid rgba(239, 83, 80, 0.25);
+    padding-bottom: 0.2em;
+}
+
+/* 2. 作者名（表格第一列）：加粗 + 蓝色 */
+.md-typeset table td:first-child {
+    font-weight: 700;
+    color: #42a5f5;
+    white-space: nowrap;
+}
+
+/* 3. 联网验证 / 外资观点 区块：蓝边 */
+.md-typeset blockquote {
+    border-left: 4px solid #42a5f5;
+    background: rgba(66, 165, 245, 0.06);
+    border-radius: 0 4px 4px 0;
+    padding: 0.6em 1em;
+    margin: 1em 0;
+    font-size: 0.92em;
+}
+
+/* 4. 关键标签（共识判断/覆盖/重要性判断）：红色醒目 */
+.md-typeset strong {
+    color: #ef5350;
+}
+
+/* 5. 表格紧凑 + 隔行（暗色半透明） */
+.md-typeset table {
+    font-size: 0.9em;
+    box-shadow: none;
+}
+.md-typeset table tr:nth-child(even) {
+    background: rgba(128, 128, 128, 0.06);
+}
+
+/* 6. 二级标题加底线 */
+.md-typeset h2 {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+    padding-bottom: 0.3em;
+}
+
+/* 7. 代码风格标记 */
+.md-typeset code {
+    color: #ff8a65;
+    font-weight: 600;
+}
+
+/* 8. ✅/⚠️/ℹ️ 段落间距 */
+.md-typeset blockquote p {
+    margin: 0.3em 0;
+}

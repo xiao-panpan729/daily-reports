@@ -30,4 +30,7 @@ nav:
 extra:
   generator: false
 
+extra_css:
+  - stylesheets/custom.css
+
 copyright: "量化交易信号系统 — 每日信源日报"
