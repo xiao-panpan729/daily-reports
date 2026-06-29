@@ -14,5 +14,8 @@
 - [2026-06-24 信源日报](2026-06-24.md)
 ---
 
-> 数据来源：微信公众号 | 宏观数据 | US ETF 势能 | 基本面因子
-> 生成工具：gen_source_summary.py + gen_daily_brief.py + Claude Code AI 验证
+## 产业事件分析（午后管道）
+
+<!-- INDUSTRY_LIST -->
+
+---
