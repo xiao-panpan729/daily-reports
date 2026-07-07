@@ -108,34 +108,40 @@
 
 /* ===== 产业事件分析 — 午后管道排版 ===== */
 
-/* 产业推导 / 个股特供 / 其他受益个股（四级标题） */
+/* 四级标题（个股特供/产业推导/其他受益个股）：标签化，不去抢正文的眼 */
 .md-typeset h4 {
-    font-size: 1.08em;
+    font-size: 0.95em;
+    font-weight: 600;
+    margin-top: 1.4em;
+    margin-bottom: 0.2em;
+    padding: 0.1em 0.6em;
+    border-radius: 3px;
+    border-left: 3px solid rgba(255, 138, 101, 0.4);
+    background: transparent;
+    color: inherit;
+}
+
+/* 个股特供内整体：紧凑小字，和板块正文拉开层次 */
+.md-typeset h4 ~ p {
+    font-size: 0.85em;
+    line-height: 1.6;
+    margin: 0.15em 0;
+}
+
+/* 个股特供内的股票名：加粗蓝色突出 */
+.md-typeset h4 ~ p strong {
+    color: #42a5f5;
     font-weight: 700;
-    margin-top: 1.6em;
-    margin-bottom: 0.4em;
-    padding: 0.3em 0.8em;
-    border-radius: 4px;
-    border-left: 5px solid #ff8a65;
-    background: rgba(255, 138, 101, 0.08);
-    color: #ff8a65;
 }
 
-/* 产业推导正文：稍微放大，行距加宽 */
-.md-typeset h4:first-of-type ~ p {
-    font-size: 1.02em;
-    line-height: 1.75;
+/* 其他受益个股行：极小灰字，前加 ： */
+.md-typeset h4 ~ p:last-of-type {
+    font-size: 0.82em;
+    color: #888;
 }
 
-/* 产业报告中的分割线加粗 */
+/* 产业报告中的分割线淡化 */
 .md-typeset hr {
-    height: 2px;
-    background: rgba(255, 138, 101, 0.15);
-}
-
-/* 个股特供内容缩进，与推导段落在视觉上区分 */
-.md-typeset h4:nth-of-type(2) ~ p,
-.md-typeset h4:nth-of-type(3) ~ p {
-    padding-left: 0.5em;
-    border-left: 2px solid rgba(66, 165, 245, 0.15);
+    height: 1px;
+    background: rgba(128, 128, 128, 0.12);
 }
