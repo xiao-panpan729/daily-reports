@@ -76,6 +76,14 @@
 
 ---
 
+## 世界观晨报（B线）
+
+- [世界观晨报 2026-09-13](worldview-2026-09-13.md)
+
+<!-- WORLDVIEW_LIST -->
+
+---
+
 ## 产业事件分析（午后管道）
 
 - [产业分析 2026-07-16](industry-2026-07-16.md)
@@ -104,3 +112,4 @@
 
 > 数据来源：微信公众号 | 宏观数据 | US ETF 势能 | 基本面因子
 > 生成工具：gen_source_summary.py + gen_daily_brief.py + Claude Code AI 验证
+> 世界观晨报：worldview-pipeline（world_feed.py + llm_commentary.py 兜底）+ Claude Code AI 撰写
