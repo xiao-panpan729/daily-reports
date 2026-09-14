@@ -78,7 +78,14 @@
 
 ## 世界观晨报（B线）
 
+- [世界观晨报 2026-09-14](worldview-2026-09-14.md)
+
+<details>
+<summary>历史晨报（点击展开，共1篇）</summary>
+
 - [世界观晨报 2026-09-13](worldview-2026-09-13.md)
+
+</details>
 
 <!-- WORLDVIEW_LIST -->
 
