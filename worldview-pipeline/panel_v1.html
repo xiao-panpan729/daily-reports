@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>世界观 · 引力地图 v1</title>
+<style>
+  :root{
+    --bg:#fafafa; --panel:#ffffff; --ink:#1a1a1a; --muted:#888;
+    --up:#e24b4a; --up-soft:#fcebeb; --down:#3b6d11; --down-soft:#eaf3de;
+    --flat:#c9c9c9; --flat-soft:#f1f1f1; --axis:#d0d0d0;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--ink);padding:24px}
+  .wrap{max-width:1200px;margin:0 auto}
+  header{margin-bottom:18px}
+  header h1{font-size:20px;font-weight:600;letter-spacing:.5px}
+  header .sub{font-size:13px;color:var(--muted);margin-top:6px}
+  .legend{display:flex;gap:22px;flex-wrap:wrap;font-size:12px;color:#555;margin-bottom:18px;align-items:center}
+  .legend .item{display:flex;align-items:center;gap:6px}
+  .dot{width:14px;height:14px;border-radius:50%;display:inline-block}
+  .dot.up{background:var(--up)} .dot.down{background:var(--down)} .dot.flat{background:var(--flat)}
+  .ring{width:16px;height:16px;border-radius:50%;border:2px solid var(--up);background:transparent;display:inline-block}
+  .board{background:var(--panel);border:1px solid var(--axis);border-radius:14px;position:relative;overflow:hidden}
+  svg{display:block;width:100%;height:auto}
+  .axis-label{font-size:12px;fill:#999;font-weight:500}
+  .q-title{font-size:12px;fill:#bbb;font-weight:600;letter-spacing:1px}
+  .ball-label{font-size:11px;fill:#333;font-weight:500}
+  .ball-val{font-size:10px;fill:#999}
+  .halo{fill:none}
+  .foot{font-size:11px;color:#999;margin-top:10px;line-height:1.7}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>世界观 · 引力地图 <span style="font-size:13px;font-weight:400;color:#999">v1 设计稿</span></h1>
+    <div class="sub">四象限：横轴「避险 ←→ 风险」· 纵轴「美国/全球 ←→ 中国/亚洲」· 球大小=今日动量 |delta| · 颜色=升温红/降温绿</div>
+  </header>
+
+  <div class="legend">
+    <span class="item"><span class="dot up"></span> 升温（delta&gt;0）</span>
+    <span class="item"><span class="dot down"></span> 降温（delta&lt;0）</span>
+    <span class="item"><span class="dot flat"></span> 无新数据（灰）</span>
+    <span class="item"><span class="ring"></span> 外圈=二阶导加速（|d2|大 = 转折在即）</span>
+    <span class="item">球越大 = 今天动得越狠</span>
+  </div>
+
+  <div class="board" id="board"></div>
+
+  <div class="foot">
+    说明：球体大小按「今日动量」= |delta| 缩放（log），颜色按 delta 正负（红涨绿跌）。外圈虚线代表二阶导 d2 = delta今日 − delta昨日，d2 为正表示升温在加速（加速上涨），为负表示降温在加速。FRED 美债/中债等日更数据，今日非更新日时显示灰色「无新数据」，不假装平静。
+  </div>
+</div>
+
+<script>
+const DATA = [{"name": "BTC", "key": "BTC", "delta": -0.002605, "d2": 0.005573, "value": 77734.5, "streak": -2, "src": "hl_main"}, {"name": "ETH", "key": "ETH", "delta": -0.004154, "d2": 0.014589, "value": 2397.45, "streak": -1, "src": "hl_main"}, {"name": "SOL", "key": "SOL", "delta": -0.003871, "d2": -0.00539, "value": 100.365, "streak": -2, "src": "hl_main"}, {"name": "NVDA", "key": "xyz:NVDA", "delta": -0.003682, "d2": -0.034756, "value": 224.605, "streak": -4, "src": "hl_xyz"}, {"name": "AMD", "key": "xyz:AMD", "delta": -0.005139, "d2": 0.0071909999999999995, "value": 454.965, "streak": -2, "src": "hl_xyz"}, {"name": "AVGO", "key": "xyz:AVGO", "delta": -0.003152, "d2": 0.011549, "value": 357.34, "streak": -7, "src": "hl_xyz"}, {"name": "MSFT", "key": "xyz:MSFT", "delta": -0.00024, "d2": 0.004602, "value": 499.395, "streak": -1, "src": "hl_xyz"}, {"name": "GOOGL", "key": "xyz:GOOGL", "delta": -0.003251, "d2": -0.0024400000000000003, "value": 338.74, "streak": -1, "src": "hl_xyz"}, {"name": "AAPL", "key": "xyz:AAPL", "delta": -0.002554, "d2": 0.002125, "value": 324.2, "streak": -2, "src": "hl_xyz"}, {"name": "TSLA", "key": "xyz:TSLA", "delta": 0.001914, "d2": 0.004928, "value": 361.185, "streak": 1, "src": "hl_xyz"}, {"name": "BABA", "key": "xyz:BABA", "delta": 9.1e-05, "d2": -0.013269, "value": 109.99, "streak": 4, "src": "hl_xyz"}, {"name": "COIN", "key": "xyz:COIN", "delta": -0.004385, "d2": 0.021117999999999998, "value": 177.08, "streak": -3, "src": "hl_xyz"}, {"name": "AMZN", "key": "xyz:AMZN", "delta": -0.002963, "d2": null, "value": 255.77, "streak": -2, "src": "hl_xyz"}, {"name": "DXY", "key": "xyz:DXY", "delta": 0.0, "d2": null, "value": 97.15, "streak": 0, "src": "hl_xyz"}, {"name": "GOLD", "key": "xyz:GOLD", "delta": -0.002072, "d2": null, "value": 4431.35, "streak": -1, "src": "hl_xyz"}, {"name": "JP225", "key": "xyz:JP225", "delta": -0.004198, "d2": null, "value": 63931.5, "streak": -3, "src": "hl_xyz"}, {"name": "JPY", "key": "xyz:JPY", "delta": -0.003002, "d2": null, "value": 156.11, "streak": -2, "src": "hl_xyz"}, {"name": "META", "key": "xyz:META", "delta": -0.001669, "d2": null, "value": 598.02, "streak": -3, "src": "hl_xyz"}, {"name": "NATGAS", "key": "xyz:NATGAS", "delta": 0.000334, "d2": null, "value": 2.9922, "streak": 3, "src": "hl_xyz"}, {"name": "SMH", "key": "xyz:SMH", "delta": -0.004718, "d2": null, "value": 547.47, "streak": -3, "src": "hl_xyz"}, {"name": "TSM", "key": "xyz:TSM", "delta": -0.00235, "d2": null, "value": 413.95, "streak": -2, "src": "hl_xyz"}, {"name": "VIX", "key": "xyz:VIX", "delta": 0.0, "d2": null, "value": 20.0, "streak": 0, "src": "hl_xyz"}, {"name": "fx:USDCNH", "key": "fx:USDCNH", "delta": -1.5e-05, "d2": null, "value": 6.7186, "streak": -1, "src": "yahoo"}, {"name": "idx:HSI", "key": "idx:HSI", "delta": 0.0, "d2": -0.003137, "value": 25213.31, "streak": 0, "src": "yahoo"}, {"name": "bond:CN10Y", "key": "bond:CN10Y", "delta": -0.003736, "d2": -0.00534, "value": 1.6798, "streak": -1, "src": "cnbond"}, {"name": "bond:CN30Y", "key": "bond:CN30Y", "delta": -0.005365, "d2": -0.007937, "value": 2.132, "streak": -1, "src": "cnbond"}, {"name": "fx:USDCNY", "key": "fx:USDCNY", "delta": 0.000156, "d2": null, "value": 6.7194, "streak": 2, "src": "chinamoney"}, {"name": "fred:UST10Y", "key": "fred:UST10Y", "delta": 0.0, "d2": 0.004193, "value": 4.79, "streak": 0, "src": "fred"}, {"name": "fred:UST20Y", "key": "fred:UST20Y", "delta": 0.0, "d2": -3.300000000000004e-05, "value": 5.27, "streak": 0, "src": "fred"}, {"name": "fred:UST30Y", "key": "fred:UST30Y", "delta": 0.0, "d2": -0.0019370000000000004, "value": 5.27, "streak": 0, "src": "fred"}, {"name": "fred:UST2Y", "key": "fred:UST2Y", "delta": null, "d2": 0.011521, "value": 4.39, "streak": null, "src": "fred"}, {"name": "fred:UST10Y2Y", "key": "fred:UST10Y2Y", "delta": null, "d2": 0.02439, "value": 0.4, "streak": null, "src": "fred"}, {"name": "fred:FEDFUNDS", "key": "fred:FEDFUNDS", "delta": null, "d2": 0.0, "value": 3.75, "streak": null, "src": "fred"}, {"name": "fred:HY_OAS", "key": "fred:HY_OAS", "delta": null, "d2": -0.003933, "value": 2.65, "streak": null, "src": "fred"}];
+const W = 1160, H = 760;
+const pad = 70;
+
+function inQ(key, name){
+  const fred = key.startsWith('fred:');
+  const bond = key.startsWith('bond:');
+  const cnMoney = key.startsWith('fx:USDCNY');
+  const hsi = key==='idx:HSI';
+  const cnAsia = (name==='BABA')||(name==='JPY')||(name==='JP225')||hsi||bond||cnMoney||key==='fx:USDCNH';
+  const safe = ['DXY','JPY','GOLD','VIX'].includes(name)||fred||bond;
+  const region = cnAsia ? 'asia' : 'global';
+  const risk = safe ? 'safe' : 'risk';
+  return {region, risk};
+}
+
+function ballSize(delta){
+  if(delta==null || delta===0) return 16;
+  const a = Math.abs(delta);
+  return 16 + Math.min(30, Math.log10(1 + a*1000) * 9);
+}
+
+function build(){
+  const board = document.getElementById('board');
+  const quadrants = {
+    'global-risk': {x:0, y:0, title:'美国/全球 · 风险'},
+    'asia-risk':   {x:1, y:0, title:'中国/亚洲 · 风险'},
+    'global-safe': {x:0, y:1, title:'美国/全球 · 避险'},
+    'asia-safe':   {x:1, y:1, title:'中国/亚洲 · 避险'},
+  };
+  const cells = { 'global-risk':[], 'asia-risk':[], 'global-safe':[], 'asia-safe':[] };
+  DATA.forEach(d=>{
+    const {region,risk} = inQ(d.key, d.name);
+    cells[region+'-'+risk].push(d);
+  });
+  const cx = W/2, cy = H/2;
+  const qw = (W - pad*2)/2, qh = (H - pad*2)/2;
+  let svg = `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg">`;
+  svg += `<rect width="${W}" height="${H}" fill="transparent"/>`;
+  svg += `<line x1="${cx}" y1="${pad}" x2="${cx}" y2="${H-pad}" stroke="${'#d0d0d0'}" stroke-width="1"/>`;
+  svg += `<line x1="${pad}" y1="${cy}" x2="${W-pad}" y2="${cy}" stroke="${'#d0d0d0'}" stroke-width="1"/>`;
+  svg += `<text x="${cx+8}" y="${pad+16}" class="axis-label">风险 →</text>`;
+  svg += `<text x="${cx-8}" y="${pad+16}" class="axis-label" text-anchor="end">← 避险</text>`;
+  svg += `<text x="${W-pad-8}" y="${cy-10}" class="axis-label" text-anchor="end">美国/全球</text>`;
+  svg += `<text x="${W-pad-8}" y="${cy+20}" class="axis-label" text-anchor="end">中国/亚洲</text>`;
+
+  const pos = {
+    'global-risk': {x0: pad, y0: pad, x1: cx, y1: cy},
+    'asia-risk':   {x0: cx, y0: pad, x1: W-pad, y1: cy},
+    'global-safe': {x0: pad, y0: cy, x1: cx, y1: H-pad},
+    'asia-safe':   {x0: cx, y0: cy, x1: W-pad, y1: H-pad},
+  };
+
+  for(const q in cells){
+    const p = pos[q];
+    const qx = (p.x0+p.x1)/2, qy = (p.y0+p.y1)/2;
+    svg += `<text x="${qx}" y="${qy-8}" class="q-title" text-anchor="middle">${quadrants[q].title}</text>`;
+    const arr = cells[q];
+    const n = arr.length;
+    arr.forEach((d, i)=>{
+      const r = ballSize(d.delta);
+      const angle = (i/n)*Math.PI*2 - Math.PI/2;
+      const spread = Math.min(qw,qh)/2 - 40;
+      const bx = qx + Math.cos(angle)*spread*0.75;
+      const by = qy + 12 + Math.sin(angle)*spread*0.75;
+      const delta = d.delta, d2 = d.d2;
+      const up = delta>0, down = delta<0, flat = (delta==null||delta===0);
+      const fill = flat ? '#e6e6e6' : (up ? '#e24b4a' : '#3b6d11');
+      const stroke = flat ? '#c9c9c9' : (up ? '#a32d2d' : '#27500a');
+      let halo = '';
+      if(d2!=null && Math.abs(d2)>0.003){
+        const accel = d2>0;
+        const hr = r + 5;
+        halo = `<circle cx="${bx}" cy="${by}" r="${hr}" class="halo" stroke="${accel?'#e24b4a':'#3b6d11'}" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.6"/>`;
+      }
+      const labelY = by + r + 14;
+      const valTxt = d.value!=null ? (d.value>=100?Math.round(d.value):d.value.toFixed(2)) : '—';
+      svg += halo;
+      svg += `<circle cx="${bx}" cy="${by}" r="${r}" fill="${fill}" stroke="${stroke}" stroke-width="1.5"/>`;
+      svg += `<text x="${bx}" y="${by+3}" text-anchor="middle" dominant-baseline="central" fill="#fff" font-size="${r>24?11:9}" font-weight="600">${d.name}</text>`;
+      svg += `<text x="${bx}" y="${labelY}" text-anchor="middle" class="ball-label">${d.name}</text>`;
+      svg += `<text x="${bx}" y="${labelY+12}" text-anchor="middle" class="ball-val">${valTxt}</text>`;
+    });
+  }
+  svg += `</svg>`;
+  board.innerHTML = svg;
+}
+build();
+</script>
+</body>
+</html>
