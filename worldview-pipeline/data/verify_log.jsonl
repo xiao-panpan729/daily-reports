@@ -1,0 +1,23 @@
+{"ts": "2026-09-15 10:35", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-15 10:38", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-15 13:31", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-15 13:31", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-15 13:31", "ok": false, "n_issues": 4, "kinds": ["source_down"], "archived": 0, "msgs": ["VIX 的第二源 新浪 znb_VIX 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "WTI原油 的第二源 新浪 hf_CL 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "黄金期货 的第二源 新浪 hf_GC 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "布油(永续) 的第二源 新浪 hf_OIL 取数失败（URLError）—— 需查该源是否已失效，并给替代端点"]}
+{"ts": "2026-09-15 13:32", "ok": false, "n_issues": 4, "kinds": ["source_down"], "archived": 0, "msgs": ["VIX 的第二源 新浪 znb_VIX 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "WTI原油 的第二源 新浪 hf_CL 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "黄金期货 的第二源 新浪 hf_GC 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "布油(永续) 的第二源 新浪 hf_OIL 取数失败（URLError）—— 需查该源是否已失效，并给替代端点"]}
+{"ts": "2026-09-15 13:32", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-15 13:32", "ok": false, "n_issues": 4, "kinds": ["source_down"], "archived": 0, "msgs": ["VIX 的第二源 新浪 znb_VIX 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "WTI原油 的第二源 新浪 hf_CL 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "黄金期货 的第二源 新浪 hf_GC 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "布油(永续) 的第二源 新浪 hf_OIL 取数失败（URLError）—— 需查该源是否已失效，并给替代端点"]}
+{"ts": "2026-09-15 13:32", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-15 13:33", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-15 13:33", "ok": false, "n_issues": 4, "kinds": ["source_down"], "archived": 0, "msgs": ["VIX 的第二源 新浪 znb_VIX 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "WTI原油 的第二源 新浪 hf_CL 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "黄金期货 的第二源 新浪 hf_GC 取数失败（URLError）—— 需查该源是否已失效，并给替代端点", "布油(永续) 的第二源 新浪 hf_OIL 取数失败（URLError）—— 需查该源是否已失效，并给替代端点"]}
+{"ts": "2026-09-15 13:33", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-15 13:34", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-15 13:36", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-15 13:37", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-16 08:24", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-17 08:34", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-18 08:11", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-21 08:14", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-22 08:24", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-23 08:28", "ok": false, "n_issues": 1, "kinds": ["source_down"], "archived": 0, "msgs": ["美元指数 的第二源 东财 100.UDI 取数失败（RemoteDisconnected）—— 需查该源是否已失效，并给替代端点"]}
+{"ts": "2026-09-23 08:35", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}
+{"ts": "2026-09-24 08:20", "ok": true, "n_issues": 0, "kinds": [], "archived": 25, "msgs": []}

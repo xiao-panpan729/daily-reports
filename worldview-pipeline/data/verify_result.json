@@ -1,0 +1,376 @@
+{
+  "ts": "2026-09-24 08:20",
+  "issues": [],
+  "consistency": [
+    {
+      "key": "fred:UST2Y",
+      "name": "美债2Y",
+      "sec": "0.65 历史分位",
+      "value": 4.85,
+      "ref": 4.85,
+      "bad": false
+    },
+    {
+      "key": "fred:UST10Y",
+      "name": "美债10Y",
+      "sec": "0.65 历史分位",
+      "value": 5.11,
+      "ref": 5.11,
+      "bad": false
+    },
+    {
+      "key": "fred:UST10Y2Y",
+      "name": "10Y-2Y利差",
+      "sec": "0.65 历史分位",
+      "value": 0.26,
+      "ref": 0.26,
+      "bad": false
+    },
+    {
+      "key": "fred:HY_OAS",
+      "name": "高收益利差",
+      "sec": "0.65 历史分位",
+      "value": 2.68,
+      "ref": 2.68,
+      "bad": false
+    },
+    {
+      "key": "fred:IG_OAS",
+      "name": "投资级利差",
+      "sec": "0.65 历史分位",
+      "value": 0.77,
+      "ref": 0.77,
+      "bad": false
+    },
+    {
+      "key": "fred:T10YIE",
+      "name": "盈亏平衡通胀",
+      "sec": "0.65 历史分位",
+      "value": 2.35,
+      "ref": 2.35,
+      "bad": false
+    },
+    {
+      "key": "fred:VIX",
+      "name": "VIX",
+      "sec": "0.65 历史分位",
+      "value": 15.18,
+      "ref": 15.18,
+      "bad": false
+    },
+    {
+      "key": "fred:WTI",
+      "name": "WTI",
+      "sec": "0.65 历史分位",
+      "value": 92.06,
+      "ref": 92.06,
+      "bad": false
+    },
+    {
+      "key": "fred:VIX",
+      "name": "VIX现货",
+      "sec": "2. 异动榜",
+      "value": 15.18,
+      "ref": 15.18,
+      "bad": false
+    },
+    {
+      "key": "fred:UST10Y",
+      "name": "美债10Y",
+      "sec": "2. 异动榜",
+      "value": 5.11,
+      "ref": 5.11,
+      "bad": false
+    },
+    {
+      "key": "fred:UST2Y",
+      "name": "美债2Y",
+      "sec": "2. 异动榜",
+      "value": 4.85,
+      "ref": 4.85,
+      "bad": false
+    },
+    {
+      "key": "fred:WTI",
+      "name": "WTI原油",
+      "sec": "2. 异动榜",
+      "value": 92.06,
+      "ref": 92.06,
+      "bad": false
+    }
+  ],
+  "second_source": [
+    {
+      "name": "VIX",
+      "ours": 15.18,
+      "theirs": 15.17,
+      "dev": -0.0006587615283267317,
+      "bad": false,
+      "src": "新浪 znb_VIX",
+      "ours_date": "2026-09-23",
+      "theirs_date": "2026-09-24",
+      "theirs_time": "04:15:01",
+      "state": "定格 2026-09-24 04:15",
+      "newer": true,
+      "note": ""
+    },
+    {
+      "name": "WTI原油",
+      "ours": 92.06,
+      "theirs": 91.76,
+      "dev": -0.003258744297197449,
+      "bad": false,
+      "src": "新浪 hf_CL",
+      "ours_date": "2026-09-23",
+      "theirs_date": "2026-09-24",
+      "theirs_time": "08:20:13",
+      "state": "盘中",
+      "newer": true,
+      "note": ""
+    },
+    {
+      "name": "黄金期货",
+      "ours": 4325.0,
+      "theirs": 4323.137,
+      "dev": -0.0004307514450867708,
+      "bad": false,
+      "src": "新浪 hf_GC",
+      "ours_date": "2026-09-23",
+      "theirs_date": "2026-09-24",
+      "theirs_time": "08:20:16",
+      "state": "盘中",
+      "newer": true,
+      "note": ""
+    },
+    {
+      "name": "美元指数",
+      "ours": 101.131,
+      "theirs": 101.156,
+      "dev": 0.00024720412138716795,
+      "bad": false,
+      "src": "CNBC .DXY",
+      "ours_date": "2026-09-23",
+      "theirs_date": "2026-09-24",
+      "theirs_time": "08:20",
+      "state": "盘中",
+      "newer": true,
+      "note": ""
+    },
+    {
+      "name": "布油(永续)",
+      "ours": 97.6685,
+      "theirs": 97.678,
+      "dev": 9.726779872735558e-05,
+      "bad": false,
+      "src": "新浪 hf_OIL",
+      "ours_date": null,
+      "theirs_date": "2026-09-24",
+      "theirs_time": "08:20:21",
+      "state": "盘中",
+      "newer": false,
+      "note": "仅提示：口径非同一工具"
+    }
+  ],
+  "lag": [
+    {
+      "key": "bond:CN10Y",
+      "name": "中债10Y",
+      "date": "2026-09-23",
+      "src": "中债",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "bond:CN30Y",
+      "name": "中债30Y",
+      "date": "2026-09-23",
+      "src": "中债",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "cm:COPPER_FUT",
+      "name": "铜期货",
+      "date": "2026-09-23",
+      "src": "Yahoo",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "cm:GOLD_FUT",
+      "name": "黄金期货",
+      "date": "2026-09-23",
+      "src": "Yahoo",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "fred:FEDFUNDS",
+      "name": "联邦基金利率",
+      "date": "2026-09-23",
+      "src": "FRED",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "fred:HY_OAS",
+      "name": "高收益利差",
+      "date": "2026-09-22",
+      "src": "FRED",
+      "lag": 2,
+      "bad": false
+    },
+    {
+      "key": "fred:IG_OAS",
+      "name": "投资级利差",
+      "date": "2026-09-22",
+      "src": "FRED",
+      "lag": 2,
+      "bad": false
+    },
+    {
+      "key": "fred:RRP",
+      "name": "隔夜逆回购",
+      "date": "2026-09-23",
+      "src": "FRED",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "fred:SOFR",
+      "name": "SOFR",
+      "date": "2026-09-22",
+      "src": "FRED",
+      "lag": 2,
+      "bad": false
+    },
+    {
+      "key": "fred:T10YIE",
+      "name": "盈亏平衡通胀",
+      "date": "2026-09-23",
+      "src": "FRED",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "fred:UST10Y",
+      "name": "美债10Y",
+      "date": "2026-09-23",
+      "src": "财政部",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "fred:UST10Y2Y",
+      "name": "10Y-2Y利差",
+      "date": "2026-09-23",
+      "src": "FRED",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "fred:UST20Y",
+      "name": "美债20Y",
+      "date": "2026-09-23",
+      "src": "财政部",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "fred:UST2Y",
+      "name": "美债2Y",
+      "date": "2026-09-23",
+      "src": "财政部",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "fred:UST30Y",
+      "name": "美债30Y",
+      "date": "2026-09-23",
+      "src": "财政部",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "fred:VIX",
+      "name": "VIX现货",
+      "date": "2026-09-23",
+      "src": "Yahoo",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "fred:WTI",
+      "name": "WTI原油",
+      "date": "2026-09-23",
+      "src": "Yahoo",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "fx:USDCNH",
+      "name": "离岸人民币",
+      "date": "2026-09-24",
+      "src": "Yahoo",
+      "lag": 0,
+      "bad": false
+    },
+    {
+      "key": "idx:DXY",
+      "name": "美元指数",
+      "date": "2026-09-23",
+      "src": "Yahoo",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "idx:HSI",
+      "name": "恒生",
+      "date": "2026-09-23",
+      "src": "Yahoo",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "idx:MOVE",
+      "name": "MOVE",
+      "date": "2026-09-23",
+      "src": "Yahoo",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "vix:3M",
+      "name": "VIX 3月",
+      "date": "2026-09-23",
+      "src": "Yahoo",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "vix:6M",
+      "name": "VIX 6月",
+      "date": "2026-09-23",
+      "src": "Yahoo",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "vix:9D",
+      "name": "VIX 9日",
+      "date": "2026-09-23",
+      "src": "Yahoo",
+      "lag": 1,
+      "bad": false
+    },
+    {
+      "key": "vix:VVIX",
+      "name": "VVIX",
+      "date": "2026-09-23",
+      "src": "Yahoo",
+      "lag": 1,
+      "bad": false
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+ts,id,question,p_24h_ago,p_now,p_min,p_max,p_chg_24h,p_range,peak_ts,trough_ts,n_points
+2026-09-10 17:01:50,4190635,"Will the price of Bitcoin be above $80,000 on September 10?",0.425,0.042,0.042,0.425,-0.383,0.383,09-09 17:00,09-10 16:56,25
+2026-09-10 17:01:50,4368270,Bitcoin Up or Down on September 10?,0.495,0.255,0.255,0.545,-0.24,0.29,09-10 01:00,09-10 17:00,25
+2026-09-10 17:01:50,3866513,Will WTI Crude Oil (WTI) hit (HIGH) $100 in September?,0.455,0.68,0.455,0.68,0.225,0.225,09-10 16:58,09-09 17:00,25
+2026-09-10 17:01:50,4190831,"Will Bitcoin dip to $77,500 in September?",0.8445,0.91,0.784,0.9455,0.0655,0.1615,09-10 07:00,09-09 21:00,25
+2026-09-10 17:01:50,4095052,US x Iran Effective Ceasefire by September 4?,0.485,0.615,0.405,0.615,0.13,0.21,09-10 14:00,09-10 06:00,25
+2026-09-10 17:01:50,4168072,US x Iran Effective Ceasefire by September 7?,0.485,0.625,0.365,0.625,0.14,0.26,09-10 14:00,09-10 06:00,25
+2026-09-11 08:51:55,3954346,Will WTI Crude Oil (WTI) hit (HIGH) $105 in September?,0.322,0.8685,0.266,0.9665,0.5465,0.7005,09-11 06:00,09-10 15:00,25
+2026-09-11 08:51:55,4216780,"Will the price of Bitcoin be above $76,000 on September 11?",0.859,0.7075,0.6615,0.9035,-0.1515,0.242,09-10 14:00,09-11 08:00,25
+2026-09-11 08:51:55,4216784,"Will the price of Bitcoin be above $80,000 on September 11?",0.205,0.042,0.035,0.245,-0.163,0.21,09-10 14:00,09-11 08:00,25
+2026-09-11 08:51:55,2252245,Will the Fed increase interest rates by 25 bps after the September 2026 meeting?,0.535,0.635,0.515,0.655,0.1,0.14,09-11 03:00,09-10 19:00,25
+2026-09-11 08:51:55,2252244,Will there be no change in Fed interest rates after the September 2026 meeting?,0.455,0.355,0.335,0.475,-0.1,0.14,09-10 20:00,09-11 04:00,25
+2026-09-11 08:51:55,1808547,Fed Rate Hike by September 2026 Meeting?,0.535,0.625,0.535,0.645,0.09,0.11,09-11 04:00,09-10 09:00,25
+2026-09-11 08:51:55,3902370,Israel x Iran ceasefire continues through November 30?,0.695,0.62,0.62,0.695,-0.075,0.075,09-10 09:00,09-11 08:49,25
+2026-09-11 08:51:55,2126461,Will Crude Oil reach a new all-time high by December 31?,0.115,0.165,0.115,0.21,0.05,0.095,09-11 07:00,09-10 09:00,25
+2026-09-11 08:51:55,908713,Fed rate hike in 2026?,0.735,0.785,0.7,0.795,0.05,0.095,09-10 22:00,09-10 20:00,25
+2026-09-11 08:51:55,4216787,"Will the price of Bitcoin be above $82,000 on September 11?",0.045,0.009,0.0075,0.065,-0.036,0.0575,09-10 11:00,09-11 01:00,25
+2026-09-11 08:51:55,3399458,Israel x Iran ceasefire continues through September 30?,0.865,0.825,0.825,0.865,-0.04,0.04,09-10 09:00,09-11 04:00,25
+2026-09-11 08:51:55,4216778,"Will the price of Bitcoin be above $74,000 on September 11?",0.9695,0.9335,0.922,0.98,-0.036,0.058,09-10 15:00,09-10 21:00,25
+2026-09-11 08:51:55,665727,Will Iran withdraw from the NPT before 2027?,0.1125,0.146,0.1125,0.1495,0.0335,0.037,09-11 04:00,09-10 09:00,25
+2026-09-11 08:51:55,2126460,Will Crude Oil reach a new all-time high by September 30?,0.0135,0.0425,0.0135,0.053,0.029,0.0395,09-11 06:00,09-10 09:00,25
+2026-09-11 08:51:55,4216789,"Will the price of Bitcoin be above $84,000 on September 11?",0.0175,0.0025,0.0015,0.0185,-0.015,0.017,09-10 13:00,09-11 01:00,25
+2026-09-11 08:51:55,4095052,US x Iran Effective Ceasefire by September 4?,0.6,0.615,0.525,0.615,0.015,0.09,09-10 14:00,09-11 04:00,25
+2026-09-11 08:51:55,665374,Will the U.S. invade Iran before 2027?,0.145,0.155,0.145,0.165,0.01,0.02,09-11 06:00,09-10 09:00,25
+2026-09-11 08:51:55,701502,"Will Bitcoin dip to $45,000 by December 31, 2026?",0.085,0.095,0.085,0.095,0.01,0.01,09-10 21:00,09-10 09:00,25
+2026-09-11 08:51:55,4052438,"Will Bitcoin dip to $55,000 in September?",0.016,0.0105,0.0055,0.0165,-0.0055,0.011,09-10 10:00,09-10 20:00,25
+2026-09-11 08:51:55,3702042,"US announces end of Iranian blockade by September 14, 2026?",0.023,0.026,0.0135,0.027,0.003,0.0135,09-11 08:00,09-10 20:00,25
+2026-09-11 08:51:55,2252246,Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?,0.007,0.0085,0.0065,0.01,0.0015,0.0035,09-10 22:00,09-10 14:00,25
+2026-09-11 08:51:55,3701690,Israel closes its airspace by September 30?,0.966,0.9645,0.956,0.966,-0.0015,0.01,09-10 09:00,09-10 22:00,25
+2026-09-11 08:51:55,2252243,Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?,0.0035,0.0045,0.0035,0.0045,0.001,0.001,09-10 12:00,09-10 09:00,25
+2026-09-11 08:51:55,2252242,Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?,0.0015,0.0015,0.0015,0.0015,0.0,0.0,09-10 09:00,09-10 09:00,25
+2026-09-11 08:51:55,616909,Will 7 Fed rate cuts happen in 2026?,0.0005,0.0005,0.0005,0.0005,0.0,0.0,09-10 09:00,09-10 09:00,25
+2026-09-11 08:51:55,616908,Will 6 Fed rate cuts happen in 2026?,0.0005,0.0005,0.0005,0.0005,0.0,0.0,09-10 09:00,09-10 09:00,25
+2026-09-11 08:51:55,3128887,"US announces end of Iranian blockade by September 30, 2026?",0.145,0.145,0.135,0.145,0.0,0.01,09-10 09:00,09-10 15:00,25
+2026-09-11 08:51:55,4216774,"Will the price of Bitcoin be above $70,000 on September 11?",0.997,0.9975,0.9945,0.9985,0.0005,0.004,09-10 16:00,09-11 07:00,25
+2026-09-13 15:48:52,4293340,"Will the price of Bitcoin be above $78,000 on September 13?",0.18,0.035,0.035,0.225,-0.145,0.19,09-12 23:00,09-13 15:46,25
+2026-09-13 15:48:52,3956904,Iran-Oman Hormuz Agreement by September 14?,0.245,0.29,0.19,0.435,0.045,0.245,09-12 17:00,09-12 23:00,25
+2026-09-13 15:48:52,3491474,Iran-Oman Hormuz Agreement by September 30?,0.39,0.47,0.265,0.665,0.08,0.4,09-12 17:00,09-12 23:00,25
+2026-09-13 15:48:52,4293337,"Will the price of Bitcoin be above $76,000 on September 13?",0.9505,0.983,0.9505,0.9845,0.0325,0.034,09-13 14:00,09-12 16:00,25
+2026-09-13 15:48:52,3701690,Israel closes its airspace by September 30?,0.9825,0.969,0.9645,0.9825,-0.0135,0.018,09-12 16:00,09-13 04:00,25
+2026-09-13 15:48:52,2252245,Will the Fed increase interest rates by 25 bps after the September 2026 meeting?,0.785,0.795,0.785,0.795,0.01,0.01,09-13 01:00,09-12 16:00,25
+2026-09-13 15:48:52,665374,Will the U.S. invade Iran before 2027?,0.155,0.165,0.155,0.165,0.01,0.01,09-13 01:00,09-12 16:00,25
+2026-09-13 15:48:52,4095052,US x Iran Effective Ceasefire by September 4?,0.865,0.875,0.81,0.89,0.01,0.08,09-13 08:00,09-13 06:00,25
+2026-09-13 15:48:52,1808548,Fed Rate Hike by October 2026 Meeting?,0.835,0.825,0.815,0.85,-0.01,0.035,09-12 21:00,09-13 00:00,25
+2026-09-13 15:48:52,3128887,"US announces end of Iranian blockade by September 30, 2026?",0.195,0.195,0.195,0.295,0.0,0.1,09-12 18:00,09-12 16:00,25
+2026-09-13 15:48:52,4293343,"Will the price of Bitcoin be above $80,000 on September 13?",0.009,0.0015,0.0015,0.0105,-0.0075,0.009,09-13 00:00,09-13 15:46,25
+2026-09-13 15:48:52,4293335,"Will the price of Bitcoin be above $74,000 on September 13?",0.993,0.9985,0.9905,0.9985,0.0055,0.008,09-13 04:00,09-12 19:00,25
+2026-09-13 15:48:52,4293346,"Will the price of Bitcoin be above $82,000 on September 13?",0.0045,0.0005,0.0005,0.005,-0.004,0.0045,09-12 17:00,09-13 08:00,25
+2026-09-13 15:48:52,3215074,Kharg Island no longer under Iranian control by September 30?,0.0145,0.013,0.0125,0.0145,-0.0015,0.002,09-12 16:00,09-13 02:00,25
+2026-09-13 15:48:52,3702042,"US announces end of Iranian blockade by September 14, 2026?",0.0235,0.0225,0.0225,0.0295,-0.001,0.007,09-13 00:00,09-13 15:46,25
+2026-09-13 15:48:52,4052438,"Will Bitcoin dip to $55,000 in September?",0.0105,0.0115,0.0095,0.0135,0.001,0.004,09-13 08:00,09-13 00:00,25
+2026-09-13 15:48:52,682711,Will Yossi Cohen be the next Prime Minister of Israel?,0.0025,0.003,0.0025,0.0035,0.0005,0.001,09-13 00:00,09-12 16:00,25
+2026-09-13 15:48:52,2252244,Will there be no change in Fed interest rates after the September 2026 meeting?,0.205,0.205,0.195,0.215,0.0,0.02,09-12 23:00,09-12 18:00,25
+2026-09-13 15:48:52,2252243,Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?,0.0035,0.0035,0.0035,0.0035,0.0,0.0,09-12 16:00,09-12 16:00,25
+2026-09-13 15:48:52,2252246,Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?,0.0065,0.0065,0.0055,0.0065,0.0,0.001,09-12 16:00,09-12 23:00,25
+2026-09-13 15:48:52,2252242,Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?,0.0005,0.0005,0.0005,0.0005,0.0,0.0,09-12 16:00,09-12 16:00,25
+2026-09-13 15:48:52,908713,Fed rate hike in 2026?,0.885,0.865,0.865,0.885,-0.02,0.02,09-12 16:00,09-13 04:00,25
+2026-09-14 08:30:15,3956904,Iran-Oman Hormuz Agreement by September 14?,0.275,0.017,0.0095,0.39,-0.258,0.3805,09-13 21:00,09-14 05:00,25
+2026-09-14 08:30:15,3491474,Iran-Oman Hormuz Agreement by September 30?,0.415,0.2,0.195,0.55,-0.215,0.355,09-13 22:00,09-14 07:00,25
+2026-09-14 08:30:15,4095052,US x Iran Effective Ceasefire by September 4?,0.875,0.865,0.825,0.885,-0.01,0.06,09-14 05:00,09-14 07:00,25
+2026-09-14 08:30:15,3702042,"US announces end of Iranian blockade by September 14, 2026?",0.0245,0.006,0.006,0.0245,-0.0185,0.0185,09-13 09:00,09-14 07:00,25
+2026-09-14 08:30:15,2252245,Will the Fed increase interest rates by 25 bps after the September 2026 meeting?,0.795,0.785,0.775,0.795,-0.01,0.02,09-13 09:00,09-13 20:00,25
+2026-09-14 08:30:15,4338204,"Will the price of Bitcoin be above $74,000 on September 14?",0.9855,0.975,0.965,0.991,-0.0105,0.026,09-14 01:00,09-13 20:00,25
+2026-09-14 08:30:15,3701690,Israel closes its airspace by September 30?,0.973,0.9685,0.9655,0.9785,-0.0045,0.013,09-13 18:00,09-14 00:00,25
+2026-09-14 08:30:15,567621,Will China invade Taiwan by end of 2026?,0.0385,0.0415,0.0385,0.0435,0.003,0.005,09-14 04:00,09-13 09:00,25
+2026-09-14 08:30:15,4338200,"Will the price of Bitcoin be above $68,000 on September 14?",0.997,0.999,0.9965,0.9995,0.002,0.003,09-13 11:00,09-14 08:00,25
+2026-09-14 08:30:15,2252246,Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?,0.0055,0.0065,0.0055,0.0065,0.001,0.001,09-13 12:00,09-13 09:00,25
+2026-09-14 08:30:15,2252244,Will there be no change in Fed interest rates after the September 2026 meeting?,0.205,0.205,0.205,0.215,0.0,0.01,09-13 20:00,09-13 09:00,25
+2026-09-14 08:30:15,2252243,Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?,0.0035,0.0035,0.0035,0.0035,0.0,0.0,09-13 09:00,09-13 09:00,25
+2026-09-14 08:30:15,2252242,Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?,0.0005,0.0005,0.0005,0.0005,0.0,0.0,09-13 09:00,09-13 09:00,25
+2026-09-14 08:30:15,663583,Will the Iranian regime fall before 2027?,0.075,0.075,0.075,0.075,0.0,0.0,09-13 09:00,09-13 09:00,25
+2026-09-14 08:30:15,908713,Fed rate hike in 2026?,0.865,0.865,0.865,0.89,0.0,0.025,09-13 17:00,09-13 09:00,25
+2026-09-14 08:30:15,665374,Will the U.S. invade Iran before 2027?,0.165,0.165,0.165,0.165,0.0,0.0,09-13 09:00,09-13 09:00,25
+2026-09-15 08:33:43,4367130,"Will the price of Bitcoin be above $76,000 on September 15?",0.705,0.9415,0.705,0.9825,0.2365,0.2775,09-15 05:00,09-14 09:00,25
+2026-09-15 08:33:43,4095053,US x Iran Effective Ceasefire by September 11?,0.86,0.963,0.86,0.978,0.103,0.118,09-15 01:00,09-14 09:00,25
+2026-09-15 08:33:43,2467207,"Will Bitcoin reach $85,000 by December 31, 2026?",0.61,0.705,0.61,0.75,0.095,0.14,09-15 05:00,09-14 09:00,25
+2026-09-15 08:33:43,4168072,US x Iran Effective Ceasefire by September 7?,0.865,0.9495,0.795,0.9595,0.0845,0.1645,09-15 01:00,09-14 23:00,25
+2026-09-15 08:33:43,2252245,Will the Fed increase interest rates by 25 bps after the September 2026 meeting?,0.785,0.875,0.785,0.875,0.09,0.09,09-15 06:00,09-14 09:00,25
+2026-09-15 08:33:43,4095052,US x Iran Effective Ceasefire by September 4?,0.865,0.955,0.775,0.982,0.09,0.207,09-15 01:00,09-14 23:00,25
+2026-09-15 08:33:43,4487273,Saudi Oil Pipeline (East-West) restarts by September 30?,0.48,0.52,0.425,0.61,0.04,0.185,09-14 22:00,09-15 02:00,25
+2026-09-15 08:33:43,2252244,Will there be no change in Fed interest rates after the September 2026 meeting?,0.205,0.125,0.125,0.205,-0.08,0.08,09-14 09:00,09-15 04:00,25
+2026-09-15 08:33:43,1808548,Fed Rate Hike by October 2026 Meeting?,0.825,0.9,0.825,0.905,0.075,0.08,09-15 02:00,09-14 09:00,25
+2026-09-15 08:33:43,908713,Fed rate hike in 2026?,0.865,0.92,0.865,0.925,0.055,0.06,09-15 04:00,09-14 09:00,25
+2026-09-15 08:33:43,4367133,"Will the price of Bitcoin be above $80,000 on September 15?",0.0355,0.0705,0.0355,0.269,0.035,0.2335,09-15 03:00,09-14 09:00,25
+2026-09-15 08:33:43,2589813,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,0.375,0.365,0.355,0.375,-0.01,0.02,09-14 09:00,09-15 01:00,25
+2026-09-15 08:33:43,4052413,"Will Bitcoin reach $100,000 in September?",0.0125,0.021,0.0125,0.0225,0.0085,0.01,09-15 06:00,09-14 09:00,25
+2026-09-15 08:33:43,3954346,Will WTI Crude Oil (WTI) hit (HIGH) $105 in September?,0.7955,0.772,0.6595,0.9245,-0.0235,0.265,09-14 22:00,09-15 03:00,25
+2026-09-15 08:33:43,4367135,"Will the price of Bitcoin be above $82,000 on September 15?",0.014,0.022,0.014,0.0625,0.008,0.0485,09-15 03:00,09-14 09:00,25
+2026-09-15 08:33:43,3701690,Israel closes its airspace by September 30?,0.9685,0.9635,0.9635,0.977,-0.005,0.0135,09-15 00:00,09-15 08:33,25
+2026-09-15 08:33:43,701502,"Will Bitcoin dip to $45,000 by December 31, 2026?",0.085,0.08,0.07,0.085,-0.005,0.015,09-14 09:00,09-14 23:00,25
+2026-09-15 08:33:43,4367123,"Will the price of Bitcoin be above $70,000 on September 15?",0.9945,0.9985,0.9945,0.9995,0.004,0.005,09-14 16:00,09-14 09:00,25
+2026-09-15 08:33:43,3702042,"US announces end of Iranian blockade by September 14, 2026?",0.006,0.0025,0.0015,0.006,-0.0035,0.0045,09-14 09:00,09-14 22:00,25
+2026-09-15 08:33:43,567621,Will China invade Taiwan by end of 2026?,0.0455,0.0405,0.0395,0.0455,-0.005,0.006,09-14 09:00,09-15 01:00,25
+2026-09-15 08:33:43,2589810,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,0.005,0.0035,0.0035,0.0095,-0.0015,0.006,09-14 15:00,09-15 08:00,25
+2026-09-15 08:33:43,4367120,"Will the price of Bitcoin be above $68,000 on September 15?",0.997,0.9995,0.9965,0.9995,0.0025,0.003,09-14 17:00,09-15 02:00,25
+2026-09-15 08:33:43,3215074,Kharg Island no longer under Iranian control by September 30?,0.012,0.014,0.0115,0.0155,0.002,0.004,09-15 07:00,09-14 20:00,25
+2026-09-15 08:33:43,2252243,Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?,0.0035,0.0025,0.0015,0.0035,-0.001,0.002,09-14 09:00,09-15 05:00,25
+2026-09-15 08:33:43,2252246,Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?,0.0065,0.0075,0.0065,0.0095,0.001,0.003,09-15 06:00,09-14 09:00,25
+2026-09-15 08:33:43,3866510,Will WTI Crude Oil (WTI) hit (HIGH) $130 in September?,0.054,0.0475,0.0475,0.0615,-0.0065,0.014,09-14 22:00,09-15 08:31,25
+2026-09-15 08:33:43,2589811,Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?,0.028,0.0225,0.015,0.0345,-0.0055,0.0195,09-14 15:00,09-14 22:00,25
+2026-09-15 08:33:43,2589814,Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?,0.008,0.0085,0.0075,0.01,0.0005,0.0025,09-14 17:00,09-14 22:00,25
+2026-09-15 08:33:43,2252242,Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?,0.0005,0.0005,0.0005,0.0005,0.0,0.0,09-14 09:00,09-14 09:00,25
+2026-09-15 08:33:43,665374,Will the U.S. invade Iran before 2027?,0.165,0.165,0.165,0.165,0.0,0.0,09-14 09:00,09-14 09:00,25
+2026-09-15 08:33:43,2589812,Will there be no change in Fed interest rates after the October 2026 meeting?,0.615,0.615,0.615,0.625,0.0,0.01,09-14 21:00,09-14 09:00,25
+2026-09-15 08:33:43,682705,Will Benjamin Netanyahu be the next Prime Minister of Israel?,0.285,0.285,0.285,0.295,0.0,0.01,09-14 15:00,09-14 09:00,25
+2026-09-15 08:54:27,4367130,"Will the price of Bitcoin be above $76,000 on September 15?",0.705,0.9415,0.705,0.9825,0.2365,0.2775,09-15 05:00,09-14 09:00,25
+2026-09-15 08:54:27,4095053,US x Iran Effective Ceasefire by September 11?,0.86,0.9615,0.86,0.978,0.1015,0.118,09-15 01:00,09-14 09:00,25
+2026-09-15 08:54:27,2252245,Will the Fed increase interest rates by 25 bps after the September 2026 meeting?,0.785,0.875,0.785,0.875,0.09,0.09,09-15 06:00,09-14 09:00,25
+2026-09-15 08:54:27,4095052,US x Iran Effective Ceasefire by September 4?,0.865,0.9545,0.775,0.982,0.0895,0.207,09-15 01:00,09-14 23:00,25
+2026-09-15 08:54:27,4168072,US x Iran Effective Ceasefire by September 7?,0.865,0.9485,0.795,0.9595,0.0835,0.1645,09-15 01:00,09-14 23:00,25
+2026-09-15 08:54:27,2252244,Will there be no change in Fed interest rates after the September 2026 meeting?,0.205,0.125,0.125,0.205,-0.08,0.08,09-14 09:00,09-15 04:00,25
+2026-09-15 08:54:27,1808548,Fed Rate Hike by October 2026 Meeting?,0.825,0.9,0.825,0.905,0.075,0.08,09-15 02:00,09-14 09:00,25
+2026-09-15 08:54:27,2467207,"Will Bitcoin reach $85,000 by December 31, 2026?",0.61,0.68,0.61,0.75,0.07,0.14,09-15 05:00,09-14 09:00,25
+2026-09-15 08:54:27,908713,Fed rate hike in 2026?,0.865,0.925,0.865,0.925,0.06,0.06,09-15 04:00,09-14 09:00,25
+2026-09-15 08:54:27,4487273,Saudi Oil Pipeline (East-West) restarts by September 30?,0.48,0.51,0.425,0.61,0.03,0.185,09-14 22:00,09-15 02:00,25
+2026-09-15 08:54:27,4367133,"Will the price of Bitcoin be above $80,000 on September 15?",0.0355,0.057,0.0355,0.269,0.0215,0.2335,09-15 03:00,09-14 09:00,25
+2026-09-15 08:54:27,3128887,"US announces end of Iranian blockade by September 30, 2026?",0.125,0.145,0.125,0.175,0.02,0.05,09-15 03:00,09-14 09:00,25
+2026-09-15 08:54:27,2589813,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,0.375,0.365,0.355,0.375,-0.01,0.02,09-14 09:00,09-15 01:00,25
+2026-09-15 08:54:27,3954346,Will WTI Crude Oil (WTI) hit (HIGH) $105 in September?,0.7955,0.765,0.6595,0.9245,-0.0305,0.265,09-14 22:00,09-15 03:00,25
+2026-09-15 08:54:27,4052413,"Will Bitcoin reach $100,000 in September?",0.0125,0.02,0.0125,0.0225,0.0075,0.01,09-15 06:00,09-14 09:00,25
+2026-09-15 08:54:27,4367135,"Will the price of Bitcoin be above $82,000 on September 15?",0.014,0.0215,0.014,0.0625,0.0075,0.0485,09-15 03:00,09-14 09:00,25
+2026-09-15 08:54:27,3866510,Will WTI Crude Oil (WTI) hit (HIGH) $130 in September?,0.054,0.0475,0.0475,0.0615,-0.0065,0.014,09-14 22:00,09-15 08:52,25
+2026-09-15 08:54:27,701502,"Will Bitcoin dip to $45,000 by December 31, 2026?",0.085,0.08,0.07,0.085,-0.005,0.015,09-14 09:00,09-14 23:00,25
+2026-09-15 08:54:27,3701690,Israel closes its airspace by September 30?,0.9685,0.964,0.964,0.977,-0.0045,0.013,09-15 00:00,09-15 08:00,25
+2026-09-15 08:54:27,4367123,"Will the price of Bitcoin be above $70,000 on September 15?",0.9945,0.9985,0.9945,0.9995,0.004,0.005,09-14 16:00,09-14 09:00,25
+2026-09-15 08:54:27,3702042,"US announces end of Iranian blockade by September 14, 2026?",0.006,0.002,0.0015,0.006,-0.004,0.0045,09-14 09:00,09-14 22:00,25
+2026-09-15 08:54:27,4367120,"Will the price of Bitcoin be above $68,000 on September 15?",0.997,0.9995,0.9965,0.9995,0.0025,0.003,09-14 17:00,09-15 02:00,25
+2026-09-15 08:54:27,3215074,Kharg Island no longer under Iranian control by September 30?,0.012,0.014,0.0115,0.0155,0.002,0.004,09-15 07:00,09-14 20:00,25
+2026-09-15 08:54:27,2252243,Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?,0.0035,0.0025,0.0015,0.0035,-0.001,0.002,09-14 09:00,09-15 05:00,25
+2026-09-15 08:54:27,2252246,Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?,0.0065,0.0075,0.0065,0.0095,0.001,0.003,09-15 06:00,09-14 09:00,25
+2026-09-15 08:54:27,2589814,Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?,0.008,0.009,0.0075,0.01,0.001,0.0025,09-14 17:00,09-14 22:00,25
+2026-09-15 08:54:27,2589811,Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?,0.028,0.0285,0.015,0.0345,0.0005,0.0195,09-14 15:00,09-14 22:00,25
+2026-09-15 08:54:27,2589810,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,0.005,0.0055,0.0035,0.0095,0.0005,0.006,09-14 15:00,09-15 08:00,25
+2026-09-15 08:54:27,2252242,Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?,0.0005,0.0005,0.0005,0.0005,0.0,0.0,09-14 09:00,09-14 09:00,25
+2026-09-15 08:54:27,665374,Will the U.S. invade Iran before 2027?,0.165,0.165,0.165,0.165,0.0,0.0,09-14 09:00,09-14 09:00,25
+2026-09-15 08:54:27,2589812,Will there be no change in Fed interest rates after the October 2026 meeting?,0.615,0.615,0.615,0.625,0.0,0.01,09-14 21:00,09-14 09:00,25
+2026-09-15 08:54:27,682705,Will Benjamin Netanyahu be the next Prime Minister of Israel?,0.285,0.285,0.285,0.295,0.0,0.01,09-14 15:00,09-14 09:00,25
+2026-09-15 10:35:47,4367130,"Will the price of Bitcoin be above $76,000 on September 15?",0.835,0.944,0.83,0.9825,0.109,0.1525,09-15 05:00,09-14 12:00,25
+2026-09-15 10:35:47,2252245,Will the Fed increase interest rates by 25 bps after the September 2026 meeting?,0.795,0.875,0.785,0.875,0.08,0.09,09-15 06:00,09-14 15:00,25
+2026-09-15 10:35:47,2252244,Will there be no change in Fed interest rates after the September 2026 meeting?,0.195,0.125,0.125,0.205,-0.07,0.08,09-14 12:00,09-15 04:00,25
+2026-09-15 10:35:47,4095053,US x Iran Effective Ceasefire by September 11?,0.905,0.9615,0.885,0.978,0.0565,0.093,09-15 01:00,09-14 23:00,25
+2026-09-15 10:35:47,4095052,US x Iran Effective Ceasefire by September 4?,0.92,0.9585,0.775,0.982,0.0385,0.207,09-15 01:00,09-14 23:00,25
+2026-09-15 10:35:47,908713,Fed rate hike in 2026?,0.865,0.925,0.865,0.925,0.06,0.06,09-15 04:00,09-14 11:00,25
+2026-09-15 10:35:47,1808548,Fed Rate Hike by October 2026 Meeting?,0.825,0.885,0.825,0.905,0.06,0.08,09-15 02:00,09-14 11:00,25
+2026-09-15 10:35:47,4168072,US x Iran Effective Ceasefire by September 7?,0.9,0.9485,0.795,0.9595,0.0485,0.1645,09-15 01:00,09-14 23:00,25
+2026-09-15 10:35:47,2467207,"Will Bitcoin reach $85,000 by December 31, 2026?",0.625,0.665,0.625,0.75,0.04,0.125,09-15 05:00,09-14 11:00,25
+2026-09-15 10:35:47,4487273,Saudi Oil Pipeline (East-West) restarts by September 30?,0.5,0.48,0.425,0.61,-0.02,0.185,09-14 22:00,09-15 02:00,25
+2026-09-15 10:35:47,3128887,"US announces end of Iranian blockade by September 30, 2026?",0.125,0.145,0.125,0.175,0.02,0.05,09-15 03:00,09-14 11:00,25
+2026-09-15 10:35:47,3954346,Will WTI Crude Oil (WTI) hit (HIGH) $105 in September?,0.7715,0.7715,0.6595,0.9245,0.0,0.265,09-14 22:00,09-15 03:00,25
+2026-09-15 10:35:47,701502,"Will Bitcoin dip to $45,000 by December 31, 2026?",0.085,0.075,0.07,0.085,-0.01,0.015,09-14 11:00,09-14 23:00,25
+2026-09-15 10:35:47,4052413,"Will Bitcoin reach $100,000 in September?",0.0125,0.0205,0.0125,0.0225,0.008,0.01,09-15 06:00,09-14 11:00,25
+2026-09-15 10:35:47,4367133,"Will the price of Bitcoin be above $80,000 on September 15?",0.0835,0.0675,0.056,0.269,-0.016,0.213,09-15 03:00,09-15 09:00,25
+2026-09-15 10:35:47,4367135,"Will the price of Bitcoin be above $82,000 on September 15?",0.02,0.0215,0.0145,0.0625,0.0015,0.048,09-15 03:00,09-14 20:00,25
+2026-09-15 10:35:47,2252246,Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?,0.0065,0.0095,0.0065,0.0095,0.003,0.003,09-15 06:00,09-14 11:00,25
+2026-09-15 10:35:47,4367123,"Will the price of Bitcoin be above $70,000 on September 15?",0.9955,0.9985,0.9955,0.9995,0.003,0.004,09-14 16:00,09-14 11:00,25
+2026-09-15 10:35:47,3702042,"US announces end of Iranian blockade by September 14, 2026?",0.0045,0.0015,0.0015,0.0045,-0.003,0.003,09-14 11:00,09-14 22:00,25
+2026-09-15 10:35:47,3215074,Kharg Island no longer under Iranian control by September 30?,0.0125,0.014,0.0115,0.0155,0.0015,0.004,09-15 07:00,09-14 20:00,25
+2026-09-15 10:35:47,4367120,"Will the price of Bitcoin be above $68,000 on September 15?",0.9985,0.999,0.9965,0.9995,0.0005,0.003,09-14 17:00,09-15 02:00,25
+2026-09-15 10:35:47,2252243,Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?,0.0035,0.0025,0.0015,0.0035,-0.001,0.002,09-14 11:00,09-15 05:00,25
+2026-09-15 10:35:47,3866510,Will WTI Crude Oil (WTI) hit (HIGH) $130 in September?,0.0525,0.0535,0.0475,0.0615,0.001,0.014,09-14 22:00,09-15 09:00,25
+2026-09-15 10:35:47,2589814,Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?,0.008,0.009,0.0075,0.01,0.001,0.0025,09-14 17:00,09-14 22:00,25
+2026-09-15 10:35:47,3701690,Israel closes its airspace by September 30?,0.9655,0.967,0.964,0.977,0.0015,0.013,09-15 00:00,09-15 08:00,25
+2026-09-15 10:35:47,2589811,Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?,0.025,0.031,0.015,0.0345,0.006,0.0195,09-14 15:00,09-14 22:00,25
+2026-09-15 10:35:47,2589810,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,0.008,0.0045,0.0035,0.0095,-0.0035,0.006,09-14 15:00,09-15 08:00,25
+2026-09-15 10:35:47,2252242,Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?,0.0005,0.0005,0.0005,0.0005,0.0,0.0,09-14 11:00,09-14 11:00,25
+2026-09-15 10:35:47,665374,Will the U.S. invade Iran before 2027?,0.165,0.165,0.165,0.165,0.0,0.0,09-14 11:00,09-14 11:00,25
+2026-09-15 10:35:47,2589812,Will there be no change in Fed interest rates after the October 2026 meeting?,0.615,0.615,0.615,0.625,0.0,0.01,09-14 21:00,09-14 11:00,25
+2026-09-15 10:35:47,2589813,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,0.365,0.365,0.355,0.375,0.0,0.02,09-14 23:00,09-15 01:00,25
+2026-09-15 10:35:47,682705,Will Benjamin Netanyahu be the next Prime Minister of Israel?,0.285,0.285,0.285,0.295,0.0,0.01,09-14 15:00,09-14 11:00,25
+2026-09-16 08:22:15,4412237,"Will the price of Bitcoin be above $76,000 on September 16?",0.825,0.425,0.375,0.835,-0.4,0.46,09-15 10:00,09-16 06:00,25
+2026-09-16 08:22:15,4338638,"Will Bitcoin reach $80,000 in September?",0.715,0.465,0.415,0.715,-0.25,0.3,09-15 09:00,09-16 06:00,25
+2026-09-16 08:22:15,1831352,"Will any AI model reach 1520 Overall Arena Score by September 30, 2026?",0.763,0.999,0.226,0.999,0.236,0.773,09-16 08:00,09-16 03:00,25
+2026-09-16 08:22:15,4412241,"Will the price of Bitcoin be above $80,000 on September 16?",0.175,0.0105,0.0105,0.175,-0.1645,0.1645,09-15 09:00,09-16 08:00,25
+2026-09-16 08:22:15,609655,US recession by end of 2026?,0.095,0.205,0.085,0.255,0.11,0.17,09-16 05:00,09-15 13:00,25
+2026-09-16 08:22:15,4052431,"Will Bitcoin dip to $65,000 in September?",0.07,0.115,0.065,0.115,0.045,0.05,09-16 00:00,09-15 10:00,25
+2026-09-16 08:22:15,3399458,Israel x Iran ceasefire continues through September 30?,0.915,0.865,0.865,0.925,-0.05,0.06,09-15 23:00,09-16 07:00,25
+2026-09-16 08:22:15,4412243,"Will the price of Bitcoin be above $82,000 on September 16?",0.0465,0.0025,0.0025,0.0465,-0.044,0.044,09-15 09:00,09-16 06:00,25
+2026-09-16 08:22:15,4095052,US x Iran Effective Ceasefire by September 4?,0.9545,0.998,0.945,0.9995,0.0435,0.0545,09-16 04:00,09-15 12:00,25
+2026-09-16 08:22:15,908713,Fed rate hike in 2026?,0.925,0.955,0.92,0.955,0.03,0.035,09-16 04:00,09-15 12:00,25
+2026-09-16 08:22:15,2252244,Will there be no change in Fed interest rates after the September 2026 meeting?,0.125,0.105,0.095,0.125,-0.02,0.03,09-15 09:00,09-16 04:00,25
+2026-09-16 08:22:15,4412245,"Will the price of Bitcoin be above $84,000 on September 16?",0.0175,0.0005,0.0005,0.0175,-0.017,0.017,09-15 09:00,09-16 06:00,25
+2026-09-16 08:22:15,3702045,"US announces end of Iranian blockade by September 21, 2026?",0.065,0.047,0.0355,0.065,-0.018,0.0295,09-15 09:00,09-16 04:00,25
+2026-09-16 08:22:15,1394086,Will Reza Pahlavi enter Iran by December 31?,0.05,0.065,0.045,0.065,0.015,0.02,09-16 02:00,09-15 12:00,25
+2026-09-16 08:22:15,3701690,Israel closes its airspace by September 30?,0.964,0.9765,0.964,0.9765,0.0125,0.0125,09-16 08:22,09-15 09:00,25
+2026-09-16 08:22:15,2589812,Will there be no change in Fed interest rates after the October 2026 meeting?,0.615,0.605,0.605,0.625,-0.01,0.02,09-15 17:00,09-16 05:00,25
+2026-09-16 08:22:15,3866510,Will WTI Crude Oil (WTI) hit (HIGH) $130 in September?,0.0475,0.0565,0.0445,0.0965,0.009,0.052,09-16 01:00,09-15 15:00,25
+2026-09-16 08:22:15,4412232,"Will the price of Bitcoin be above $72,000 on September 16?",0.9855,0.9885,0.953,0.9885,0.003,0.0355,09-16 08:20,09-15 23:00,25
+2026-09-16 08:22:15,1808548,Fed Rate Hike by October 2026 Meeting?,0.9,0.905,0.885,0.925,0.005,0.04,09-16 04:00,09-15 11:00,25
+2026-09-16 08:22:15,1130013,Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election?,0.0105,0.008,0.0075,0.0115,-0.0025,0.004,09-15 17:00,09-16 01:00,25
+2026-09-16 08:22:15,2252246,Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?,0.0075,0.0095,0.0075,0.0115,0.002,0.004,09-15 12:00,09-15 09:00,25
+2026-09-16 08:22:15,567621,Will China invade Taiwan by end of 2026?,0.0405,0.0385,0.0385,0.0405,-0.002,0.002,09-15 09:00,09-15 17:00,25
+2026-09-16 08:22:15,2737255,Will the Iranian regime fall by September 30?,0.0095,0.008,0.0075,0.0095,-0.0015,0.002,09-15 09:00,09-15 22:00,25
+2026-09-16 08:22:15,2252243,Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?,0.0025,0.0015,0.0015,0.0025,-0.001,0.001,09-15 09:00,09-15 13:00,25
+2026-09-16 08:22:15,4412230,"Will the price of Bitcoin be above $70,000 on September 16?",0.9965,0.9975,0.9835,0.9975,0.001,0.014,09-16 08:20,09-15 23:00,25
+2026-09-16 08:22:15,4412228,"Will the price of Bitcoin be above $68,000 on September 16?",0.997,0.9965,0.9905,0.9975,-0.0005,0.007,09-15 11:00,09-15 17:00,25
+2026-09-16 08:22:15,2252245,Will the Fed increase interest rates by 25 bps after the September 2026 meeting?,0.875,0.875,0.865,0.895,0.0,0.03,09-16 04:00,09-15 23:00,25
+2026-09-16 08:22:15,2252242,Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?,0.0005,0.0005,0.0005,0.0005,0.0,0.0,09-15 09:00,09-15 09:00,25
+2026-09-16 08:22:15,665374,Will the U.S. invade Iran before 2027?,0.165,0.165,0.165,0.165,0.0,0.0,09-15 09:00,09-15 09:00,25
+2026-09-16 08:22:15,682711,Will Yossi Cohen be the next Prime Minister of Israel?,0.0025,0.0025,0.0025,0.0025,0.0,0.0,09-15 09:00,09-15 09:00,25
+2026-09-16 08:22:15,2589814,Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?,0.009,0.009,0.0065,0.01,0.0,0.0035,09-16 05:00,09-15 18:00,25
+2026-09-16 08:22:15,1808547,Fed Rate Hike by September 2026 Meeting?,0.885,0.885,0.86,0.905,0.0,0.045,09-16 04:00,09-16 07:00,25
+2026-09-17 08:31:31,4487273,Saudi Oil Pipeline (East-West) restarts by September 30?,0.475,0.63,0.445,0.665,0.155,0.22,09-17 02:00,09-16 16:00,25
+2026-09-17 08:31:31,4441308,"Will the price of Bitcoin be above $74,000 on September 17?",0.8045,0.9715,0.763,0.9715,0.167,0.2085,09-17 08:27,09-16 10:00,25
+2026-09-17 08:31:31,2589813,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,0.375,0.455,0.305,0.475,0.08,0.17,09-17 04:00,09-17 02:00,25
+2026-09-17 08:31:31,2661519,No change in Bank of England’s interest rates after September 2026 meeting?,0.9165,0.987,0.9155,0.996,0.0705,0.0805,09-17 07:00,09-16 12:00,25
+2026-09-17 08:31:31,2589812,Will there be no change in Fed interest rates after the October 2026 meeting?,0.605,0.535,0.515,0.645,-0.07,0.13,09-17 01:00,09-17 04:00,25
+2026-09-17 08:31:31,3399458,Israel x Iran ceasefire continues through September 30?,0.865,0.925,0.855,0.925,0.06,0.07,09-17 08:30,09-16 10:00,25
+2026-09-17 08:31:31,609655,US recession by end of 2026?,0.165,0.115,0.105,0.18,-0.05,0.075,09-16 11:00,09-17 07:00,25
+2026-09-17 08:31:31,4441312,"Will the price of Bitcoin be above $78,000 on September 17?",0.145,0.105,0.055,0.195,-0.04,0.14,09-16 20:00,09-17 07:00,25
+2026-09-17 08:31:31,4052431,"Will Bitcoin dip to $65,000 in September?",0.115,0.065,0.065,0.115,-0.05,0.05,09-16 09:00,09-17 05:00,25
+2026-09-17 08:31:31,4441305,"Will the price of Bitcoin be above $72,000 on September 17?",0.9585,0.9955,0.95,0.9955,0.037,0.0455,09-17 08:26,09-16 10:00,25
+2026-09-17 08:31:31,616903,Will 1 Fed rate cut happen in 2026?,0.057,0.0215,0.0205,0.0575,-0.0355,0.037,09-16 14:00,09-17 04:00,25
+2026-09-17 08:31:31,4338638,"Will Bitcoin reach $80,000 in September?",0.475,0.495,0.415,0.505,0.02,0.09,09-16 20:00,09-17 01:00,25
+2026-09-17 08:31:31,4441303,"Will the price of Bitcoin be above $70,000 on September 17?",0.99,0.998,0.982,0.998,0.008,0.016,09-17 08:30,09-17 01:00,25
+2026-09-17 08:31:31,701502,"Will Bitcoin dip to $45,000 by December 31, 2026?",0.085,0.08,0.075,0.085,-0.005,0.01,09-16 09:00,09-16 13:00,25
+2026-09-17 08:31:31,2589811,Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?,0.0215,0.0095,0.008,0.029,-0.012,0.021,09-16 15:00,09-17 05:00,25
+2026-09-17 08:31:31,663583,Will the Iranian regime fall before 2027?,0.075,0.065,0.065,0.085,-0.01,0.02,09-16 22:00,09-17 05:00,25
+2026-09-17 08:31:31,678747,Will Israel strike 4 countries in 2026?,0.7735,0.765,0.761,0.823,-0.0085,0.062,09-17 07:00,09-17 00:00,25
+2026-09-17 08:31:31,4441316,"Will the price of Bitcoin be above $82,000 on September 17?",0.0105,0.0025,0.0025,0.0155,-0.008,0.013,09-16 20:00,09-17 08:28,25
+2026-09-17 08:31:31,1130013,Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election?,0.008,0.0135,0.008,0.017,0.0055,0.009,09-17 03:00,09-16 09:00,25
+2026-09-17 08:31:31,3701690,Israel closes its airspace by September 30?,0.975,0.9805,0.974,0.9815,0.0055,0.0075,09-17 05:00,09-16 13:00,25
+2026-09-17 08:31:31,4441301,"Will the price of Bitcoin be above $68,000 on September 17?",0.994,0.9985,0.9915,0.9985,0.0045,0.007,09-17 08:00,09-16 16:00,25
+2026-09-17 08:31:31,2589810,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,0.0055,0.0035,0.0035,0.0055,-0.002,0.002,09-16 09:00,09-16 22:00,25
+2026-09-17 08:31:31,4095052,US x Iran Effective Ceasefire by September 4?,0.996,0.9995,0.996,0.9995,0.0035,0.0035,09-16 10:00,09-16 09:00,25
+2026-09-17 08:31:31,2589814,Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?,0.009,0.0075,0.0055,0.012,-0.0015,0.0065,09-17 00:00,09-17 04:00,25
+2026-09-17 08:31:31,567621,Will China invade Taiwan by end of 2026?,0.0385,0.0395,0.0375,0.0395,0.001,0.002,09-17 06:00,09-16 16:00,25
+2026-09-17 08:31:31,665374,Will the U.S. invade Iran before 2027?,0.165,0.165,0.165,0.175,0.0,0.01,09-16 17:00,09-16 09:00,25
+2026-09-17 08:31:31,682711,Will Yossi Cohen be the next Prime Minister of Israel?,0.0025,0.0025,0.0025,0.0025,0.0,0.0,09-16 09:00,09-16 09:00,25
+2026-09-17 08:31:31,3128888,"US announces end of Iranian blockade by October 31, 2026?",0.325,0.325,0.325,0.375,0.0,0.05,09-16 20:00,09-16 09:00,25
+2026-09-18 08:09:54,4413392,Will WTI Crude Oil (WTI) hit (LOW) $95 in September?,0.7,0.835,0.645,0.855,0.135,0.21,09-17 21:00,09-17 10:00,24
+2026-09-18 08:09:54,4470871,"Will the price of Bitcoin be above $74,000 on September 18?",0.915,0.985,0.915,0.9905,0.07,0.0755,09-18 06:00,09-17 09:00,25
+2026-09-18 08:09:54,4559874,Will WTI Crude Oil (WTI) hit (LOW) $100 in September?,0.944,0.9995,0.894,0.9995,0.0555,0.1055,09-17 21:00,09-17 11:00,25
+2026-09-18 08:09:54,2589813,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,0.455,0.505,0.445,0.505,0.05,0.06,09-18 08:00,09-17 13:00,25
+2026-09-18 08:09:54,2589812,Will there be no change in Fed interest rates after the October 2026 meeting?,0.535,0.495,0.485,0.545,-0.04,0.06,09-17 10:00,09-18 04:00,25
+2026-09-18 08:09:54,4470877,"Will the price of Bitcoin be above $80,000 on September 18?",0.044,0.007,0.0065,0.0455,-0.037,0.039,09-17 11:00,09-18 06:00,25
+2026-09-18 08:09:54,4470869,"Will the price of Bitcoin be above $72,000 on September 18?",0.9855,0.9975,0.9845,0.9975,0.012,0.013,09-18 07:00,09-17 11:00,25
+2026-09-18 08:09:54,701502,"Will Bitcoin dip to $45,000 by December 31, 2026?",0.075,0.065,0.055,0.075,-0.01,0.02,09-17 09:00,09-18 03:00,24
+2026-09-18 08:09:54,3247642,"US x Iran diplomatic meeting by September 30, 2026?",0.055,0.07,0.055,0.11,0.015,0.055,09-18 03:00,09-17 09:00,25
+2026-09-18 08:09:54,3702045,"US announces end of Iranian blockade by September 21, 2026?",0.032,0.024,0.021,0.0325,-0.008,0.0115,09-17 11:00,09-18 00:00,24
+2026-09-18 08:09:54,4052417,"Will Bitcoin reach $90,000 in September?",0.04,0.0305,0.0295,0.053,-0.0095,0.0235,09-17 13:00,09-18 03:00,25
+2026-09-18 08:09:54,567621,Will China invade Taiwan by end of 2026?,0.0395,0.0465,0.0375,0.047,0.007,0.0095,09-18 08:00,09-18 02:00,25
+2026-09-18 08:09:54,4052413,"Will Bitcoin reach $100,000 in September?",0.0115,0.0055,0.0055,0.0115,-0.006,0.006,09-17 09:00,09-18 03:00,25
+2026-09-18 08:09:54,4470881,"Will the price of Bitcoin be above $84,000 on September 18?",0.006,0.0005,0.0005,0.006,-0.0055,0.0055,09-17 09:00,09-17 20:00,25
+2026-09-18 08:09:54,2589811,Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?,0.0105,0.0065,0.0065,0.011,-0.004,0.0045,09-17 17:00,09-17 19:00,25
+2026-09-18 08:09:54,3215074,Kharg Island no longer under Iranian control by September 30?,0.0105,0.0075,0.0065,0.011,-0.003,0.0045,09-17 11:00,09-18 00:00,24
+2026-09-18 08:09:54,3701690,Israel closes its airspace by September 30?,0.9815,0.983,0.981,0.9855,0.0015,0.0045,09-17 23:00,09-17 10:00,25
+2026-09-18 08:09:54,1130013,Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election?,0.0135,0.0135,0.01,0.0155,0.0,0.0055,09-17 11:00,09-17 20:00,25
+2026-09-18 08:09:54,2589814,Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?,0.0065,0.0065,0.0065,0.0075,0.0,0.001,09-17 10:00,09-17 09:00,25
+2026-09-18 08:09:54,2589810,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,0.0035,0.0035,0.0035,0.0035,0.0,0.0,09-17 09:00,09-17 09:00,25
+2026-09-18 08:09:54,665374,Will the U.S. invade Iran before 2027?,0.165,0.165,0.165,0.165,0.0,0.0,09-17 09:00,09-17 09:00,25
+2026-09-18 08:09:54,663583,Will the Iranian regime fall before 2027?,0.065,0.065,0.065,0.065,0.0,0.0,09-17 09:00,09-17 09:00,24
+2026-09-21 08:12:34,4641063,US x Iran ceasefire continues through September 25?,0.83,0.875,0.805,0.895,0.045,0.09,09-21 03:00,09-20 10:00,25
+2026-09-21 08:12:34,4641064,US x Iran ceasefire continues through September 30?,0.755,0.785,0.745,0.795,0.03,0.05,09-21 01:00,09-20 11:00,25
+2026-09-21 08:12:34,4641062,US x Iran ceasefire continues through September 20?,0.925,0.9995,0.925,0.9995,0.0745,0.0745,09-21 08:00,09-20 09:00,25
+2026-09-21 08:12:34,3399458,Israel x Iran ceasefire continues through September 30?,0.915,0.925,0.865,0.935,0.01,0.07,09-21 05:00,09-20 22:00,25
+2026-09-21 08:12:34,3902370,Israel x Iran ceasefire continues through November 30?,0.72,0.68,0.68,0.725,-0.04,0.045,09-20 11:00,09-21 04:00,25
+2026-09-21 08:12:34,665374,Will the U.S. invade Iran before 2027?,0.155,0.165,0.155,0.175,0.01,0.02,09-21 00:00,09-20 09:00,25
+2026-09-21 08:12:34,682705,Will Benjamin Netanyahu be the next Prime Minister of Israel?,0.275,0.295,0.275,0.295,0.02,0.02,09-20 23:00,09-20 09:00,25
+2026-09-21 08:12:34,4545828,"Will Bitcoin reach $82,000 September 14-20?",0.441,0.447,0.06,0.447,0.006,0.387,09-21 08:09,09-20 17:00,25
+2026-09-21 08:12:34,4558864,"Will the price of Bitcoin be above $84,000 on September 21?",0.052,0.0425,0.019,0.052,-0.0095,0.033,09-20 09:00,09-20 16:00,25
+2026-09-21 08:12:34,3128886,"US announces end of Iranian blockade by December 31, 2026?",0.596,0.6015,0.5945,0.6015,0.0055,0.007,09-21 08:08,09-20 11:00,25
+2026-09-21 08:12:34,3702045,"US announces end of Iranian blockade by September 21, 2026?",0.0125,0.0125,0.011,0.025,0.0,0.014,09-20 13:00,09-20 12:00,25
+2026-09-21 08:12:34,1130013,Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election?,0.0035,0.0005,0.0005,0.0085,-0.003,0.008,09-21 02:00,09-21 04:00,25
+2026-09-21 08:12:34,3215074,Kharg Island no longer under Iranian control by September 30?,0.007,0.01,0.0055,0.0135,0.003,0.008,09-21 04:00,09-21 01:00,25
+2026-09-21 08:12:34,2126460,Will Crude Oil reach a new all-time high by September 30?,0.007,0.008,0.007,0.0155,0.001,0.0085,09-20 22:00,09-20 09:00,25
+2026-09-21 08:12:34,3128887,"US announces end of Iranian blockade by September 30, 2026?",0.095,0.095,0.075,0.115,0.0,0.04,09-21 05:00,09-21 03:00,25
+2026-09-21 08:12:34,567621,Will China invade Taiwan by end of 2026?,0.0415,0.0415,0.0415,0.0455,0.0,0.004,09-20 15:00,09-20 09:00,25
+2026-09-21 08:12:34,2589810,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,0.0035,0.0035,0.0035,0.0035,0.0,0.0,09-20 09:00,09-20 09:00,25
+2026-09-21 08:12:34,2589813,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,0.545,0.545,0.545,0.555,0.0,0.01,09-20 17:00,09-20 09:00,25
+2026-09-22 08:22:31,4587009,"Will the price of Bitcoin be above $84,000 on September 22?",0.121,0.937,0.0845,0.955,0.816,0.8705,09-22 05:00,09-21 10:00,25
+2026-09-22 08:22:31,4587013,"Will the price of Bitcoin be above $86,000 on September 22?",0.0315,0.613,0.021,0.7535,0.5815,0.7325,09-22 05:00,09-21 14:00,25
+2026-09-22 08:22:31,4052418,"Will Bitcoin reach $87,500 in September?",0.275,0.815,0.245,0.895,0.54,0.65,09-22 05:00,09-21 10:00,25
+2026-09-22 08:22:31,4587006,"Will the price of Bitcoin be above $82,000 on September 22?",0.415,0.9865,0.3015,0.988,0.5715,0.6865,09-22 08:00,09-21 10:00,25
+2026-09-22 08:22:31,4218286,Will WTI Crude Oil (WTI) hit (LOW) $90 in September?,0.5095,0.8065,0.5095,0.8645,0.297,0.355,09-22 01:00,09-21 09:00,25
+2026-09-22 08:22:31,4052417,"Will Bitcoin reach $90,000 in September?",0.1425,0.4965,0.1305,0.5645,0.354,0.434,09-22 05:00,09-21 10:00,25
+2026-09-22 08:22:31,1345531,"Will Bitcoin reach $90,000 by December 31, 2026?",0.595,0.83,0.595,0.835,0.235,0.24,09-22 05:00,09-21 09:00,25
+2026-09-22 08:22:31,4641064,US x Iran ceasefire continues through September 30?,0.785,0.895,0.785,0.905,0.11,0.12,09-22 02:00,09-21 09:00,25
+2026-09-22 08:22:31,4052415,"Will Bitcoin reach $95,000 in September?",0.038,0.128,0.032,0.178,0.09,0.146,09-22 05:00,09-21 10:00,25
+2026-09-22 08:22:31,3865962,"Will Bitcoin dip to $65,000 by December 31, 2026?",0.285,0.215,0.185,0.295,-0.07,0.11,09-21 10:00,09-22 00:00,25
+2026-09-22 08:22:31,3553883,"Will Jared Kushner attend a US x Iran diplomatic meeting by December 31, 2026?",0.325,0.395,0.325,0.405,0.07,0.08,09-22 05:00,09-21 09:00,25
+2026-09-22 08:22:31,701494,"Will Bitcoin reach $120,000 by December 31, 2026?",0.075,0.145,0.075,0.145,0.07,0.07,09-22 02:00,09-21 09:00,25
+2026-09-22 08:22:31,4052425,"Will Bitcoin dip to $72,500 in September?",0.075,0.037,0.0265,0.085,-0.038,0.0585,09-21 10:00,09-21 23:00,25
+2026-09-22 08:22:31,701493,"Will Bitcoin reach $130,000 by December 31, 2026?",0.047,0.0935,0.0455,0.103,0.0465,0.0575,09-22 04:00,09-21 10:00,25
+2026-09-22 08:22:31,4586997,"Will the price of Bitcoin be above $78,000 on September 22?",0.955,0.9985,0.929,0.9985,0.0435,0.0695,09-22 03:00,09-21 10:00,25
+2026-09-22 08:22:31,4052414,"Will Bitcoin reach $97,500 in September?",0.0195,0.0645,0.0185,0.1075,0.045,0.089,09-22 05:00,09-21 10:00,25
+2026-09-22 08:22:31,4619164,Saudi Oil Pipeline (East-West) restarts by October 31?,0.725,0.765,0.72,0.775,0.04,0.055,09-22 01:00,09-21 11:00,25
+2026-09-22 08:22:31,4052413,"Will Bitcoin reach $100,000 in September?",0.0115,0.0415,0.0105,0.0555,0.03,0.045,09-22 01:00,09-21 10:00,25
+2026-09-22 08:22:31,2589812,Will there be no change in Fed interest rates after the October 2026 meeting?,0.445,0.465,0.445,0.485,0.02,0.04,09-21 20:00,09-21 09:00,25
+2026-09-22 08:22:31,3399458,Israel x Iran ceasefire continues through September 30?,0.93,0.953,0.925,0.968,0.023,0.043,09-22 04:00,09-21 10:00,25
+2026-09-22 08:22:31,4052427,"Will Bitcoin dip to $70,000 in September?",0.0455,0.0245,0.0175,0.051,-0.021,0.0335,09-21 10:00,09-22 01:00,25
+2026-09-22 08:22:31,2589813,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,0.545,0.525,0.485,0.545,-0.02,0.06,09-21 09:00,09-22 00:00,25
+2026-09-22 08:22:31,701501,"Will Bitcoin dip to $55,000 by December 31, 2026?",0.13,0.11,0.095,0.135,-0.02,0.04,09-21 10:00,09-21 23:00,25
+2026-09-22 08:22:31,3702045,"US announces end of Iranian blockade by September 21, 2026?",0.0125,0.0015,0.0015,0.0125,-0.011,0.011,09-21 09:00,09-22 07:00,25
+2026-09-22 08:22:31,665374,Will the U.S. invade Iran before 2027?,0.165,0.155,0.155,0.165,-0.01,0.01,09-21 09:00,09-22 06:00,25
+2026-09-22 08:22:31,1339768,"Will Bitcoin dip to $40,000 by December 31, 2026?",0.055,0.045,0.045,0.055,-0.01,0.01,09-21 09:00,09-21 18:00,25
+2026-09-22 08:22:31,3128887,"US announces end of Iranian blockade by September 30, 2026?",0.095,0.105,0.085,0.105,0.01,0.02,09-21 16:00,09-21 12:00,25
+2026-09-22 08:22:31,701502,"Will Bitcoin dip to $45,000 by December 31, 2026?",0.055,0.047,0.042,0.06,-0.008,0.018,09-21 16:00,09-21 22:00,25
+2026-09-22 08:22:31,4052438,"Will Bitcoin dip to $55,000 in September?",0.004,0.0015,0.0015,0.0055,-0.0025,0.004,09-21 10:00,09-22 02:00,25
+2026-09-22 08:22:31,567621,Will China invade Taiwan by end of 2026?,0.0415,0.0395,0.0395,0.0415,-0.002,0.002,09-21 09:00,09-21 17:00,25
+2026-09-22 08:22:31,2589810,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,0.0025,0.0025,0.0025,0.0035,0.0,0.001,09-21 13:00,09-21 09:00,25
+2026-09-22 08:22:31,2589811,Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?,0.0055,0.0055,0.0055,0.0055,0.0,0.0,09-21 09:00,09-21 09:00,25
+2026-09-23 08:26:57,4487273,Saudi Oil Pipeline (East-West) restarts by September 30?,0.3,0.62,0.285,0.925,0.32,0.64,09-22 18:00,09-22 14:00,25
+2026-09-23 08:26:57,4769494,Trump renames AI by September 30?,0.075,0.315,0.065,0.505,0.24,0.44,09-23 00:00,09-22 10:00,25
+2026-09-23 08:26:57,4218286,Will WTI Crude Oil (WTI) hit (LOW) $90 in September?,0.7635,0.9995,0.659,0.9995,0.236,0.3405,09-22 18:00,09-22 13:00,25
+2026-09-23 08:26:57,4619164,Saudi Oil Pipeline (East-West) restarts by October 31?,0.755,0.886,0.755,0.9565,0.131,0.2015,09-22 20:00,09-22 09:00,25
+2026-09-23 08:26:57,4617546,"Will the price of Bitcoin be above $84,000 on September 23?",0.8385,0.969,0.761,0.969,0.1305,0.208,09-23 08:26,09-22 16:00,25
+2026-09-23 08:26:57,4641065,US x Iran ceasefire continues through October 31?,0.615,0.665,0.615,0.695,0.05,0.08,09-23 03:00,09-22 09:00,25
+2026-09-23 08:26:57,3128888,"US announces end of Iranian blockade by October 31, 2026?",0.385,0.345,0.345,0.455,-0.04,0.11,09-22 22:00,09-23 08:22,25
+2026-09-23 08:26:57,2696747,"US-Iran Final Nuclear Deal by December 31, 2026?",0.115,0.155,0.115,0.175,0.04,0.06,09-23 04:00,09-22 09:00,25
+2026-09-23 08:26:57,3128887,"US announces end of Iranian blockade by September 30, 2026?",0.105,0.075,0.075,0.165,-0.03,0.09,09-22 22:00,09-23 08:00,25
+2026-09-23 08:26:57,4052415,"Will Bitcoin reach $95,000 in September?",0.1125,0.1045,0.078,0.1265,-0.008,0.0485,09-23 02:00,09-22 15:00,25
+2026-09-23 08:26:57,3128886,"US announces end of Iranian blockade by December 31, 2026?",0.6355,0.6515,0.6225,0.682,0.016,0.0595,09-22 21:00,09-23 06:00,25
+2026-09-23 08:26:57,1339767,"Will Bitcoin dip to $50,000 by December 31, 2026?",0.075,0.06,0.055,0.075,-0.015,0.02,09-22 09:00,09-23 01:00,25
+2026-09-23 08:26:57,4797723,"Will Bitcoin dip to $85,000 in September?",0.865,0.8005,0.7645,0.9495,-0.0645,0.185,09-22 16:00,09-23 02:00,25
+2026-09-23 08:26:57,665374,Will the U.S. invade Iran before 2027?,0.155,0.145,0.145,0.155,-0.01,0.01,09-22 09:00,09-22 18:00,25
+2026-09-23 08:26:57,2589812,Will there be no change in Fed interest rates after the October 2026 meeting?,0.465,0.455,0.445,0.495,-0.01,0.05,09-22 19:00,09-22 17:00,25
+2026-09-23 08:26:57,4052418,"Will Bitcoin reach $87,500 in September?",0.745,0.785,0.645,0.82,0.04,0.175,09-23 02:00,09-22 16:00,25
+2026-09-23 08:26:57,1535973,Iran leadership change by December 31?,0.155,0.145,0.145,0.155,-0.01,0.01,09-22 09:00,09-22 15:00,25
+2026-09-23 08:26:57,701502,"Will Bitcoin dip to $45,000 by December 31, 2026?",0.047,0.0375,0.0335,0.0485,-0.0095,0.015,09-22 10:00,09-23 01:00,25
+2026-09-23 08:26:57,1339768,"Will Bitcoin dip to $40,000 by December 31, 2026?",0.045,0.0355,0.0305,0.045,-0.0095,0.0145,09-22 09:00,09-23 00:00,25
+2026-09-23 08:26:57,4052414,"Will Bitcoin reach $97,500 in September?",0.0645,0.0565,0.044,0.072,-0.008,0.028,09-23 02:00,09-22 15:00,25
+2026-09-23 08:26:57,4052413,"Will Bitcoin reach $100,000 in September?",0.0415,0.0365,0.0215,0.0425,-0.005,0.021,09-23 02:00,09-22 16:00,25
+2026-09-23 08:26:57,4641063,US x Iran ceasefire continues through September 25?,0.955,0.959,0.955,0.9815,0.004,0.0265,09-22 21:00,09-22 09:00,25
+2026-09-23 08:26:57,4617540,"Will the price of Bitcoin be above $78,000 on September 23?",0.9945,0.999,0.992,0.999,0.0045,0.007,09-23 07:00,09-22 12:00,25
+2026-09-23 08:26:57,4619163,Saudi Oil Pipeline (East-West) restarts by September 22?,0.0145,0.0185,0.014,0.6605,0.004,0.6465,09-22 18:00,09-22 14:00,25
+2026-09-23 08:26:57,3399458,Israel x Iran ceasefire continues through September 30?,0.953,0.956,0.953,0.9655,0.003,0.0125,09-23 00:00,09-22 09:00,25
+2026-09-23 08:26:57,2589814,Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?,0.0085,0.0075,0.0075,0.0095,-0.001,0.002,09-22 15:00,09-22 19:00,25
+2026-09-23 08:26:57,2589813,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,0.525,0.525,0.495,0.545,0.0,0.05,09-22 17:00,09-22 19:00,25
+2026-09-23 08:26:57,2589811,Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?,0.0055,0.0055,0.0055,0.0055,0.0,0.0,09-22 09:00,09-22 09:00,25
+2026-09-23 08:26:57,682711,Will Yossi Cohen be the next Prime Minister of Israel?,0.0025,0.0025,0.0025,0.0025,0.0,0.0,09-22 09:00,09-22 09:00,25
+2026-09-23 08:26:57,4641064,US x Iran ceasefire continues through September 30?,0.895,0.895,0.895,0.905,0.0,0.01,09-22 19:00,09-22 09:00,25
+2026-09-23 08:26:57,2589810,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,0.0025,0.0025,0.0025,0.0035,0.0,0.001,09-22 16:00,09-22 09:00,25
+2026-09-23 08:26:57,4828152,"Will Bitcoin reach $87,000 on September 22?",0.335,0.225,0.09,0.635,-0.11,0.545,09-23 02:00,09-23 07:00,21
+2026-09-24 08:17:50,4641128,"Will the price of Bitcoin be above $86,000 on September 24?",0.6,0.0975,0.0975,0.726,-0.5025,0.6285,09-23 13:00,09-24 08:13,25
+2026-09-24 08:17:50,4052418,"Will Bitcoin reach $87,500 in September?",0.785,0.425,0.385,0.915,-0.36,0.53,09-23 13:00,09-24 01:00,25
+2026-09-24 08:17:50,4052417,"Will Bitcoin reach $90,000 in September?",0.444,0.199,0.182,0.557,-0.245,0.375,09-23 13:00,09-24 01:00,25
+2026-09-24 08:17:50,4487273,Saudi Oil Pipeline (East-West) restarts by September 30?,0.625,0.47,0.47,0.635,-0.155,0.165,09-23 13:00,09-24 08:00,25
+2026-09-24 08:17:50,2589813,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,0.525,0.645,0.525,0.675,0.12,0.15,09-23 23:00,09-23 09:00,25
+2026-09-24 08:17:50,4052416,"Will Bitcoin reach $92,500 in September?",0.2115,0.0875,0.0705,0.282,-0.124,0.2115,09-23 13:00,09-24 00:00,25
+2026-09-24 08:17:50,2589812,Will there be no change in Fed interest rates after the October 2026 meeting?,0.455,0.345,0.315,0.455,-0.11,0.14,09-23 09:00,09-24 00:00,25
+2026-09-24 08:17:50,4689727,"Will Bitcoin dip to $80,000 in September?",0.1805,0.279,0.128,0.347,0.0985,0.219,09-24 00:00,09-23 13:00,25
+2026-09-24 08:17:50,4052415,"Will Bitcoin reach $95,000 in September?",0.1005,0.0395,0.0375,0.1415,-0.061,0.104,09-23 13:00,09-24 00:00,25
+2026-09-24 08:17:50,3865960,"Will Bitcoin dip to $70,000 by December 31, 2026?",0.28,0.335,0.255,0.335,0.055,0.08,09-24 01:00,09-23 13:00,25
+2026-09-24 08:17:50,3128886,"US announces end of Iranian blockade by December 31, 2026?",0.651,0.618,0.618,0.651,-0.033,0.033,09-23 09:00,09-23 18:00,25
+2026-09-24 08:17:50,3128888,"US announces end of Iranian blockade by October 31, 2026?",0.345,0.315,0.315,0.365,-0.03,0.05,09-24 00:00,09-23 15:00,25
+2026-09-24 08:17:50,4641123,"Will the price of Bitcoin be above $82,000 on September 24?",0.9825,0.949,0.8885,0.986,-0.0335,0.0975,09-23 13:00,09-24 01:00,25
+2026-09-24 08:17:50,4641064,US x Iran ceasefire continues through September 30?,0.895,0.875,0.865,0.895,-0.02,0.03,09-23 09:00,09-24 05:00,25
+2026-09-24 08:17:50,665374,Will the U.S. invade Iran before 2027?,0.145,0.135,0.135,0.145,-0.01,0.01,09-23 09:00,09-24 02:00,25
+2026-09-24 08:17:50,682705,Will Benjamin Netanyahu be the next Prime Minister of Israel?,0.285,0.295,0.285,0.295,0.01,0.01,09-23 20:00,09-23 09:00,25
+2026-09-24 08:17:50,4769494,Trump renames AI by September 30?,0.315,0.305,0.235,0.425,-0.01,0.19,09-24 07:00,09-24 00:00,25
+2026-09-24 08:17:50,2696746,"US-Iran Final Nuclear Deal by September 30, 2026?",0.0155,0.0075,0.0075,0.016,-0.008,0.0085,09-23 11:00,09-24 00:00,25
+2026-09-24 08:17:50,701493,"Will Bitcoin reach $130,000 by December 31, 2026?",0.0905,0.084,0.084,0.0905,-0.0065,0.0065,09-23 09:00,09-24 01:00,25
+2026-09-24 08:17:50,4641122,"Will the price of Bitcoin be above $80,000 on September 24?",0.993,0.985,0.9795,0.996,-0.008,0.0165,09-23 13:00,09-24 00:00,25
+2026-09-24 08:17:50,3215074,Kharg Island no longer under Iranian control by September 30?,0.0065,0.004,0.0035,0.0065,-0.0025,0.003,09-23 09:00,09-23 18:00,25
+2026-09-24 08:17:50,4641120,"Will the price of Bitcoin be above $78,000 on September 24?",0.994,0.9965,0.9915,0.997,0.0025,0.0055,09-23 12:00,09-24 01:00,25
+2026-09-24 08:17:50,2589814,Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?,0.0075,0.0085,0.0075,0.0095,0.001,0.002,09-23 14:00,09-23 09:00,25
+2026-09-24 08:17:50,4641063,US x Iran ceasefire continues through September 25?,0.9605,0.96,0.932,0.9745,-0.0005,0.0425,09-23 21:00,09-24 05:00,25
+2026-09-24 08:17:50,2589810,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,0.0025,0.0025,0.0025,0.0025,0.0,0.0,09-23 09:00,09-23 09:00,25
+2026-09-24 08:17:50,2589811,Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?,0.0055,0.0055,0.0055,0.0055,0.0,0.0,09-23 09:00,09-23 09:00,25
+2026-09-24 08:17:50,3128887,"US announces end of Iranian blockade by September 30, 2026?",0.075,0.075,0.065,0.085,0.0,0.02,09-23 23:00,09-23 10:00,25
